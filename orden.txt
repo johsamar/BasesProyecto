@@ -1,0 +1,38 @@
+1.Cuenta{
+    6.productor
+    
+}
+
+2.Certificacion{
+    7.finca(Arreeglar Diccionario) {
+        8.certificacioxFinca
+    }
+}
+
+3.Categoria {
+    9.Producto{
+        10.producto en venta
+    }
+}
+
+
+4.cliente(Arreglar Diccionario){
+    11.canasta {
+        12.pedido
+    }
+}
+
+5.distribuidor(Arreglar Diccionario){
+    15.entrega(Arreglar){
+        16.momentoEntrega
+    }
+}
+
+13. factura(Arreglar Diccionario){
+    14.pagos
+}
+
+17.reseña{
+    
+}
+

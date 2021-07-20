@@ -1,0 +1,142 @@
+[
+    {
+        "Productor": {
+            "IdProductor": "<string>",
+            "CedulaProductor": "<string>",
+            "NombreProductor": "<string>",
+            "ApellidoProductor": "<string>",
+            
+            "Contacto": {
+                "TelefonoProductor": "<string>",
+                "CorreoProductor": "<string>",
+                "DireccionPruductor": "<string>"
+            },
+
+            "Cuenta": {
+                "CodigoBacario": "<string>",
+                "NumeroCuenta": "<string>"
+            }   
+        }    
+    },
+
+    {
+    "Finca":{
+            "IdFinca": "<string>",
+            "NombreFinca": "<string>",
+            "IdProductor": "<string>",
+            "Superficie": "<integer>",
+            "Ubicacion":{
+                "Departamento": "<string>",
+                "Municipio": "<string>",
+                "Vereda": "<string>",
+                "GPS": "<string>"                
+            },
+            "Certificacion":[
+                {
+                    "NombreCertificacion": "<string>",
+                    "Descripcion": "<string>",
+                    "Vigencia":  "<string>"
+                }
+            ]
+    }
+    },
+    
+    {
+        "ProductosEnVenta":{
+            "IdVenta": "<string>",
+            "IdProductor": "<string>",
+            "IdFinca": "<string>",
+            "Cantidad": "<integer>",
+            "EstadoProducto":  "<string>",
+            "Producto":{
+                "IdProducto": "<string>",
+                "NombreProducto": "<string>",
+                "Categoria":{
+                    "NombreCategoria": "<string>",
+                    "DescripcionCategoria": "<string>"
+                }
+            },
+            "Resena":[
+                {
+                    "FechaResena": "<date>",
+                    "Descripcion": "<string>",
+                    "Calificacion": "<string>",
+                    "IdFactura": "<string>",
+                    "IdCliente": "<string>"
+                }
+            ]
+        }
+    },
+
+    {
+        "Cliente": {
+            "IdCliente": "<string>",
+            "IdentificacionCliente": "<string>",
+            "NombreCliente": "<string>",
+            "TelefonoCliente": "<string>",
+            "CorreoCliente": "<string>",
+            "TipoCliente": "<string>",
+            "Direccion": {
+                "Departamento":  "<string>",
+                "Municipio":  "<string>",
+                "Direccion":  "<string>"
+            }   
+        }  
+    },
+    
+    {
+        "Canasta":{
+            "IdCanasta": "<string>",
+            "IdCliente": "<string>",
+            "EstadoCanasta": "<string>",
+            "Pedido":[
+                {
+                "IdProductoEnVenta": "<string>",
+                "FechaPedido": "<date>",
+                "Cantidad": "<integer>"
+                }
+            ]
+        }
+    },
+
+    {
+        "Factura":{
+            "IdFactura": "<string>",
+            "IdCanasta": "<string>",
+            "IdCliente": "<string>",
+            "CostoEnvio": "<integer>",
+            "IVA": "<double>",
+            "TotalAPagar": "<double>",
+            "Pago":[
+                {
+                    "FechaPago": "<date>",
+                    "MetodoPago": "<string>",
+                    "ValorPago": "<string>"
+                }
+            ]
+
+        }
+    },
+
+    {
+        "Entrega": {
+            "IdEntrega": "string",
+            "IdFactura": "string",
+            "MomentoEntrega":[
+                {
+                    "FechaMomentoEntrega": "<string>",
+                    "UbicacionEntrega": "<string>",
+                    "TiempoEstimado": "<string>",
+                    "EstadoEntrega": "<string>"
+                }
+            ],
+            "Distribuidor":{
+                "NombreDistribuidor": "<string>",
+                "ApellidoDistribuidor": "<string>",
+                "CedulaDistribuidor": "<string>",
+                "TelefonoDistribuidor": "<string>",
+                "CorreoDistribuidor": "<string>"
+            }
+        }
+    }   
+]
