@@ -8,14 +8,18 @@
             
             "Contacto": {
                 "TelefonoProductor": "<string>",
-                "CorreoProductor": "<string>",
-                "DireccionPruductor": "<string>"
+                "CorreoProductor": "<string>"
             },
 
             "Cuenta": {
                 "CodigoBacario": "<string>",
                 "NumeroCuenta": "<string>"
-            }   
+            },
+            "Direccion": {
+                "Departamento":  "<string>",
+                "Municipio":  "<string>",
+                "Direccion":  "<string>"
+            }
         }    
     },
 
