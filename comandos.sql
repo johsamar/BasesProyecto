@@ -106,7 +106,6 @@ CREATE TABLE CertificacionXFinca(
 CREATE TABLE Producto(
     IdProducto VARCHAR2(10) NOT NULL,
     NombreProducto VARCHAR2(25) NOT NULL,
-    PrecioProducto NUMBER(8) NOT NULL,
     IdCategoria VARCHAR2(5) NOT NULL,
     CONSTRAINT PrimaryKeyProducto PRIMARY KEY(IdProducto),
     CONSTRAINT ForeignKeyProductoCategoria FOREIGN KEY(IdCategoria) REFERENCES Categoria(IdCategoria)
@@ -117,6 +116,8 @@ CREATE TABLE ProductoEnVenta(
     IdProductor VARCHAR2(10) NOT NULL,
     IdFinca VARCHAR2(10),
     IdProducto VARCHAR2(10) NOT NULL,
+    PrecioProducto NUMBER(8) NOT NULL,
+    Descripcion VARCHAR2(200) NOT NULL;
     Fecha DATE NOT NULL,
     Cantidad NUMBER(3) NOT NULL,
     EstadoProducto VARCHAR2(10) NOT NULL,
@@ -125,7 +126,7 @@ CREATE TABLE ProductoEnVenta(
     CONSTRAINT ForeignKeyProductVentFnca FOREIGN KEY(IdFinca) REFERENCES Finca(IdFinca),
     CONSTRAINT ForeignKeyProductVentPrdto FOREIGN KEY(IdProducto) REFERENCES Producto(IdProducto),
     CONSTRAINT CheckProductVentCant CHECK(Cantidad>0),
-    CONSTRAINT CheckEstadoProdctVenta CHECK(EstadoProducto='MADURO' OR EstadoProducto='VERDE' OR EstadoProducto='AGOTADO')
+    CONSTRAINT CheckEstadoProdctVenta CHECK(EstadoProducto='DISPONIBLE' OR EstadoProducto='AGOTADO' OR EstadoProducto='NO DISPONIBLE')
 );
 
 CREATE TABLE Canasta(
@@ -216,10 +217,12 @@ INSERT INTO Categoria VALUES('0000A','Vegetales','partes comestibles de las plan
 INSERT INTO Categoria VALUES('0001A','Frutas',' frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas');
 INSERT INTO Categoria VALUES('0010A','Tuberculos','Son las Raices de algunas plantas, como las papas, yuca, remolacha');
 INSERT INTO Categoria VALUES('0011A','Granos','Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida');
-INSERT INTO Categoria VALUES('0101A','Dulcen','Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe');
+INSERT INTO Categoria VALUES('0101A','Dulces','Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe');
 INSERT INTO Categoria VALUES('0111A','Lacteos','Productos derivados de la leche');
 INSERT INTO Categoria VALUES('1011A','Salud y Belleza','Plantas medicinales o productos naturales');
 INSERT INTO Categoria VALUES('1111A','Procesados','Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir.');
+INSERT INTO Categoria VALUES('0000B','Especias','Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos.');
+
 
 ------------------- CLIENTE ---------------------
 
@@ -548,17 +551,191 @@ INSERT INTO CertificacionXFinca VALUES('0100','000000025F','03/07/2019','12/12/2
 
 --'000000026F' No tiene
 
---PRODUCTO
+-- PRODUCTO
 
-INSERT INTO Producto VALUES('IdProducto','NombreProducto','PrecioProducto','IdCategoria');
+--Frutas
+INSERT INTO Producto VALUES('P00000001P','Plátano Verde','0001A');
+INSERT INTO Producto VALUES('P00000002P','Plátano Maduro','0001A');
+INSERT INTO Producto VALUES('P00000003P','Plátano Pintone','0001A');
+INSERT INTO Producto VALUES('P00000004P','Maracuyá','0001A');
+INSERT INTO Producto VALUES('P00000005P','Tomate de Arbol','0001A');
+INSERT INTO Producto VALUES('P00000006P','Manzana','0001A');
+INSERT INTO Producto VALUES('P00000007P','Peras','0001A');
+INSERT INTO Producto VALUES('P00000008P','Banano','0001A');
+INSERT INTO Producto VALUES('P00000009P','Uva','0001A');
+INSERT INTO Producto VALUES('P00000010P','Uva Verde','0001A');
+INSERT INTO Producto VALUES('P00000011P','Fresa','0001A');
+INSERT INTO Producto VALUES('P00000012P','Guanabana','0001A');
+INSERT INTO Producto VALUES('P00000013P','Piña','0001A');
+INSERT INTO Producto VALUES('P00000014P','Mango','0001A');
+INSERT INTO Producto VALUES('P00000015P','Durazno','0001A');
+INSERT INTO Producto VALUES('P00000016P','Durazno','0001A');
+INSERT INTO Producto VALUES('P00000017P','Pitaya','0001A');
+INSERT INTO Producto VALUES('P00000018P','Papaya','0001A');
+INSERT INTO Producto VALUES('P00000019P','Aguacate','0001A');
+INSERT INTO Producto VALUES('P00000020P','Guayaba','0001A');
+INSERT INTO Producto VALUES('P00000021P','Guayaba','0001A');
+INSERT INTO Producto VALUES('P00000022P','Naranja','0001A');
+INSERT INTO Producto VALUES('P00000023P','Limon','0001A');
+INSERT INTO Producto VALUES('P00000024P','Mandarina','0001A');
+INSERT INTO Producto VALUES('P00000025P','Coco','0001A');
 
+--0000A VEGETALES
+
+INSERT INTO Producto VALUES('P00000026P','Espinaca','0000A');
+INSERT INTO Producto VALUES('P00000027P','Cebolla Larga','0000A');
+INSERT INTO Producto VALUES('P00000028P','Col China','0000A');
+INSERT INTO Producto VALUES('P00000029P','Repollo Morado','0000A');
+INSERT INTO Producto VALUES('P00000030P','Repollo Blanco','0000A');
+INSERT INTO Producto VALUES('P00000031P','Calabazas','0000A');
+INSERT INTO Producto VALUES('P00000032P','Espárragos','0000A');
+INSERT INTO Producto VALUES('P00000033P','Champiñones','0000A');
+INSERT INTO Producto VALUES('P00000034P','Ahuyama','0000A');
+INSERT INTO Producto VALUES('P00000035P','Zanahoria','0000A');
+INSERT INTO Producto VALUES('P00000036P','Pimentón','0000A');
+INSERT INTO Producto VALUES('P00000037P','Remolacha','0000A');
+INSERT INTO Producto VALUES('P00000038P','Pepino','0000A');
+INSERT INTO Producto VALUES('P00000039P','Habichuela','0000A');
+INSERT INTO Producto VALUES('P00000040P','Cebolla Cabezona','0000A');
+
+--Tuberculos 0010A
+INSERT INTO Producto VALUES('P00000041P','Papa Criolla','0010A');
+INSERT INTO Producto VALUES('P00000042P','Papa','0010A');
+INSERT INTO Producto VALUES('P00000043P','Yuca','0010A');
+INSERT INTO Producto VALUES('P00000044P','Ñame','0010A');
+INSERT INTO Producto VALUES('P00000045P','Jengibre','0010A');
+
+--GRANOS 0011A
+INSERT INTO Producto VALUES('P00000046P','Maiz','0011A');
+INSERT INTO Producto VALUES('P00000047P','Frijol','0011A');
+INSERT INTO Producto VALUES('P00000048P','Lentejas','0011A');
+INSERT INTO Producto VALUES('P00000049P','Garbanzos','0011A');
+INSERT INTO Producto VALUES('P00000050P','Blanquillos','0011A');
+INSERT INTO Producto VALUES('P00000051P','Cebada','0011A');
+INSERT INTO Producto VALUES('P00000052P','Arroz','0011A');
+
+--'0101A','DulceS'
+INSERT INTO Producto VALUES('P00000053P','Panela','0101A');
+INSERT INTO Producto VALUES('P00000054P','Miel','0101A');
+INSERT INTO Producto VALUES('P00000055P','Dulce de Guayaba','0010A');
+INSERT INTO Producto VALUES('P00000056P','Arequipe de Café','0101A');
+INSERT INTO Producto VALUES('P00000057P','Arequipe de Chocolate','0101A');
+INSERT INTO Producto VALUES('P00000058P','Arequipe de Banano','0101A');
+INSERT INTO Producto VALUES('P00000059P','Bocadillo de plátano','0101A');
+INSERT INTO Producto VALUES('P00000060P','Cocada de plátano','0101A');
+INSERT INTO Producto VALUES('P00000061P','ChocoBoom','0101A');
+INSERT INTO Producto VALUES('P00000062P','Caja Dorada','0101A');
+INSERT INTO Producto VALUES('P00000063P','Caja Santo Aroma','0101A');
+INSERT INTO Producto VALUES('P00000064P','Puro Cacao Nibs','0101A');
+
+--'0111A','Lacteos'
+INSERT INTO Producto VALUES('P00000065P','Leche Clarita','0111A');
+INSERT INTO Producto VALUES('P00000066P','Leche Esperanza','0111A');
+INSERT INTO Producto VALUES('P00000067P','Leche La Vaca','0111A');
+INSERT INTO Producto VALUES('P00000068P','Leche La Lechera','0111A');
+INSERT INTO Producto VALUES('P00000069P','Leche Manchitas','0111A');
+INSERT INTO Producto VALUES('P00000070P','Yogurt Cristiano','0111A');
+INSERT INTO Producto VALUES('P00000071P','Yogurt ElCampy','0111A');
+INSERT INTO Producto VALUES('P00000072P','Yogurt QueRiko','0111A');
+INSERT INTO Producto VALUES('P00000073P','Yogurt MasMejor','0111A');
+INSERT INTO Producto VALUES('P00000074P','Kumis Veneko','0011A');
+INSERT INTO Producto VALUES('P00000075P','Kumis Muu','0011A');
+INSERT INTO Producto VALUES('P00000076P','Kumis QuieoKumis','0011A');
+INSERT INTO Producto VALUES('P00000077P','Crema de Leche soy','0011A');
+INSERT INTO Producto VALUES('P00000078P','Crema de Leche Muu','0011A');
+INSERT INTO Producto VALUES('P00000079P','Crema de Leche LasMas','0011A');
+INSERT INTO Producto VALUES('P00000080P','Queso Campesino Quisi','0011A');
+INSERT INTO Producto VALUES('P00000081P','Queso Campesino UwU','0011A');
+INSERT INTO Producto VALUES('P00000082P','Queso Campesino Mas Vaca','0011A');
+INSERT INTO Producto VALUES('P00000083P','Queso Consteño','0011A');
+INSERT INTO Producto VALUES('P00000084P','Queso Doble Crema Estira','0011A');
+INSERT INTO Producto VALUES('P00000085P','Queso Doble Crema Wuw','0011A');
+INSERT INTO Producto VALUES('P00000086P','Queso Doble Crema Vaquita','0011A');
+
+--'1011A','Salud y Belleza'
+INSERT INTO Producto VALUES('P00000087P','Honolulu Jabón Artesanal','1011A');
+INSERT INTO Producto VALUES('P00000088P','Honolulu Exfoliante café','1011A');
+INSERT INTO Producto VALUES('P00000089P','Agua Micelar','1011A');
+INSERT INTO Producto VALUES('P00000090P','Aceite de Coco','1011A');
+INSERT INTO Producto VALUES('P00000091P','Crema Antifósil','1011A'); 
+INSERT INTO Producto VALUES('P00000092P','Shampoo Dilvage','1011A');
+INSERT INTO Producto VALUES('P00000093P','Aceite de Aguacate','1011A');
+INSERT INTO Producto VALUES('P00000094P','Shampoo de Aguacate','1011A');
+
+--'1111A','Procesados'
+INSERT INTO Producto VALUES('P00000095P','Maracuyitos','1111A');
+INSERT INTO Producto VALUES('P00000096P','PlatiRicos','1111A');
+INSERT INTO Producto VALUES('P00000097P','Marranitas Patachin','1111A');
+INSERT INTO Producto VALUES('P00000098P','Aborrajaos Patachin','1111A');
+INSERT INTO Producto VALUES('P00000099P','Patachin Toston','1111A');
+INSERT INTO Producto VALUES('P00000100P','ChocoRico','1111A');
+INSERT INTO Producto VALUES('P00000101P','Tajaditos','1111A');
+INSERT INTO Producto VALUES('P00000102P','Pobs','1111A');
+INSERT INTO Producto VALUES('P00000103P','Manolito','1111A');
+INSERT INTO Producto VALUES('P00000104P','ChocoCofee','1111A');
+
+--'0000B','Especias'
+INSERT INTO Producto VALUES('P00000105P','Orégano Escama','0000B');
+INSERT INTO Producto VALUES('P00000106P','Tomillo','0000B');
+INSERT INTO Producto VALUES('P00000107P','Romero','0000B');
+INSERT INTO Producto VALUES('P00000108P','Orégano Fresco','0000B');
+INSERT INTO Producto VALUES('P00000109P','Guasca','0000B');
+INSERT INTO Producto VALUES('P00000110P','Laurel','0000B');
+INSERT INTO Producto VALUES('P00000111P','Menta','0000B');
+INSERT INTO Producto VALUES('P00000112P','Cilantro','0000B');
+INSERT INTO Producto VALUES('P00000113P','Perejil','0000B');
+INSERT INTO Producto VALUES('P00000114P','Ajo','0000B');
 
 
 --PRODUCTO EN VENTA
-INSERT INTO ProductoEnVenta VALUES('IdProductoEnVenta','IdProductor','IdFinca','IdProducto','Fecha','Cantidad','EstadoProducto');
+INSERT INTO ProductoEnVenta VALUES('IdProductoEnVenta','IdProductor','IdFinca','IdProducto','Precio','Descripcion','Fecha','Cantidad','EstadoProducto');
+
+INSERT INTO ProductoEnVenta VALUES('PV00000001','000000010P','000000010F','P00000001P',1300,'INSERTE DESCRIPCION :V','11/01/2020',15,'NO DISPONIBLE');
 
 
 
+
+
+
+
+--INSERT INTO  Productor VALUES('000000010P','Pedro','Osorio','1625549870','3257769999','pedro.osorio@gmail.com','QUINDÍO','SALENTO','KRA 14 #2-41'); 
+--INSERT INTO  Productor VALUES('000000011P','Miguel','Chavez','1025549871','3257869999','miguel.chavez@hotmail.com','CALDAS','SAN JOSE','KRA 2 #5-89'); 
+--INSERT INTO  Finca VALUES('000000010F','El Isis','QUINDÍO','MONTENEGRO','El cazador','5.100078, -75.950973',21000);
+--INSERT INTO  Finca VALUES('000000011F','El Pascal','QUINDÍO','SALENTO','La caza','4.640340, -75.576294',18000); 
+
+
+--INSERT INTO  Productor VALUES('000000009P','Tadeo','Perez','1525549870','3256769999','tadeo.perez@gmail.com','QUINDÍO','MONTENEGRO','KRA 13 #2-89'); 
+--INSERT INTO  Productor VALUES('000000012P','Ricardo','Juarez','1025549872','3256889999','ricardo.juarez@hotmail.com','CALDAS','VITERBO','KRA 16 #8-89'); 
+--INSERT INTO  Productor VALUES('000000013P','Cristina','Solano','1025549873','3256899999','cristina.solano@hotmail.com','CALDAS','RISARALDA','KRA 17 #2-89'); 
+--INSERT INTO  Productor VALUES('000000014P','Gabriela','Benjumea','1025549874','3256909999','Gabriela.benjumea@hotmail.com','CALDAS','MARULANDA','KRA 18 #2-89'); 
+--INSERT INTO  Productor VALUES('000000016P','Rodrigo','Diaz','1025549876','3256929999','rodrigo.diaz@hotmail.com','CALDAS','NEIRA','KRA 20 #2-89'); 
+--INSERT INTO  Productor VALUES('000000017P','Danilo','Urie','1025549877','3256939999','danilo.urie@hotmail.com','CALDAS','VITERBO','KRA 21 #2-89'); 
+--INSERT INTO  Productor VALUES('000000018P','Gabriel','Ferrer','1025549878','3256949999','gabriel.ferrer@hotmail.com','CALDAS','BELALCAZAR','KRA 22 #2-89'); 
+--INSERT INTO  Productor VALUES('000000019P','David','Jimenez','1025549879','3256959999','david.jimenez@hotmail.com','CALDAS','BELALCAZAR','KRA 23 #2-89'); 
+--INSERT INTO  Productor VALUES('000000020P','Jhonatan','Torres','1025549880','3256969999','jhonatan.torres@hotmail.com','CALDAS','SAN JOSE','KRA 3 #2-89'); 
+--INSERT INTO  Finca VALUES('000000012F','El milimetro','CALDAS','SAN JOSE','El perro feliz','4.412384, -75.790330',16400); 
+--INSERT INTO  Finca VALUES('000000013F','La Mercuria','CALDAS','RISARALDA','La petunia','4.618080, -75.790424',12000); 
+--INSERT INTO  Finca VALUES('000000014F','Ostras','CALDAS','MARULANDA','El caharro','4.480684, -75.590482',28000);
+--INSERT INTO  Finca VALUES('000000015F','La Ortogonal','CALDAS','NEIRA','Aranjueces','5.187380, -75.790985',94000); 
+--INSERT INTO  Finca VALUES('000000016F','El paisay','CALDAS','VITERBO','El filtro','4.800086, -75.890760',34000); 
+--INSERT INTO  Finca VALUES('000000017F','La mermeid','CALDAS','BELALCAZAR','El notch','5.866987, -75.790765',16000); 
+--INSERT INTO  Finca VALUES('000000018F','Sirenas','CALDAS','BELALCAZAR','El paseo','4.004885, -75.890790',55000);
+--INSERT INTO  Finca VALUES('000000019F','La Finquita','CALDAS','BELALCAZAR','El paseo','4.004585, -75.990690',55000);
+--INSERT INTO  Finca VALUES('000000020F','El cambio','CALDAS','SAN JOSE','El pueblo','5.000788, -75.990973',35000);
+
+
+
+--INSERT INTO  Productor VALUES('000000021P','Miguel','Chavez','1025549881','3257897999','miguel.chavez@hotmail.com','RISARALDA','APÍA','KRA 15 #5-89'); 
+--INSERT INTO  Productor VALUES('000000022P','Ricardo','Juarez','1025549882','3256989999','ricardo.juarez@hotmail.com','RISARALDA','GUÁTICA','KRA 16 #8-89'); 
+--INSERT INTO  Productor VALUES('000000023P','Cristina','Solano','1025549883','3256999999','cristina.solano@hotmail.com','RISARALDA','LA CELIA','KRA 17 #2-89'); 
+--INSERT INTO  Productor VALUES('000000024P','Gabriela','Benjumea','1025549844','3251009999','Gabriela.benjumea@hotmail.com','RISARALDA','SANTUARIO','KRA 18 #2-89'); 
+--INSERT INTO  Productor VALUES('000000025P','Rosalin','Betancourt','1025549885','3256101999','rosalin.betan@hotmail.com','RISARALDA','QUINCHÍA','KRA 19 #2-89');
+INSERT INTO  Finca VALUES('000000021F','Las Sierras','RISARALDA','APÍA','El pato','5.800778, -75.250973',21000);
+INSERT INTO  Finca VALUES('000000022F','La tibia','RISARALDA','GUÁTICA','La garacha','4.840740, -75.256294',18000); 
+INSERT INTO  Finca VALUES('000000023F','El peroné','RISARALDA','SAN JOSE','La José','4.841734, -75.250330',16400); 
+INSERT INTO  Finca VALUES('000000024F','La home','RISARALDA','LA CELIA','Taciturnia','4.861700, -75.250424',15400); 
+INSERT INTO  Finca VALUES('000000025F','El Fasanfurius','RISARALDA','SANTUARIO','Esperanza','4.848764, -75.250482',22000);
+INSERT INTO  Finca VALUES('000000026F','Lasso Peeta','RISARALDA','QUINCHÍA','La Pata','4.848764, -75.250482',99000);
 
 --CANASTA
 
