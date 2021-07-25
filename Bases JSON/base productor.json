@@ -1,0 +1,898 @@
+{
+    "Productor": {
+        "IdProductor": "000000001P",
+        "NombreProductor": "Carlos",
+        "ApellidoProductor": "Santana",
+        "CedulaProductor": "1025549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256669999",
+            "CorreoProductor": "carlos.santana@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256669999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "PIJAO",
+                "Direccion":  "KRA 5 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000002P",
+        "NombreProductor": "Henri",
+        "ApellidoProductor": "Suarez",
+        "CedulaProductor": "1025575870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256670999",
+            "CorreoProductor": "henri.suarez@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3256670999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "QUIMBAYA",
+                "Direccion":  "KRA 6 #2-58"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000003P",
+        "NombreProductor": "Tobias",
+        "ApellidoProductor": "Camil",
+        "CedulaProductor": "1025577870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256671999",
+            "CorreoProductor": "tobias.camil@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3256671999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "SALENTO",
+                "Direccion":  "KRA 7 #2-23"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000004P",
+        "NombreProductor": "Carmen",
+        "ApellidoProductor": "Rigo",
+        "CedulaProductor": "1025541870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256667299",
+            "CorreoProductor": "carmen.rigo@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256667299"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "SALENTO",
+                "Direccion":  "KRA 8 #2-46"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000005P",
+        "NombreProductor": "Diana",
+        "ApellidoProductor": "Paniagua",
+        "CedulaProductor": "1125549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257369999",
+            "CorreoProductor": "diana.paniagua@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3257369999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "QUIMBAYA",
+                "Direccion":  "KRA 9 #2-95"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000006P",
+        "NombreProductor": "Fabricio",
+        "ApellidoProductor": "Summer",
+        "CedulaProductor": "1225549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257469999",
+            "CorreoProductor": "fabricio.summer@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3257469999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "CALARCA",
+                "Direccion":  "KRA 10 #2-01"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000007P",
+        "NombreProductor": "Amelia",
+        "ApellidoProductor": "Aguiluz",
+        "CedulaProductor": "1325549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256749999",
+            "CorreoProductor": "amelia.aguiluz@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3256749999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "SALENTO",
+                "Direccion":  "KRA 11 #2-36"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000008P",
+        "NombreProductor": "Erick",
+        "ApellidoProductor": "Rodriguez",
+        "CedulaProductor": "1425549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257569999",
+            "CorreoProductor": "erick.rodriguez@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3257569999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "PIJAO",
+                "Direccion":  "KRA 12 #2-54"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000009P",
+        "NombreProductor": "Tadeo",
+        "ApellidoProductor": "Perez",
+        "CedulaProductor": "1525549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256769999",
+            "CorreoProductor": "tadeo.perez@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3256769999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "MONTENEGRO",
+                "Direccion":  "KRA 13 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000010P",
+        "NombreProductor": "Pedro",
+        "ApellidoProductor": "Osorio",
+        "CedulaProductor": "1625549870",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257769999",
+            "CorreoProductor": "pedro.osorio@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3257769999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "SALENTO",
+                "Direccion":  "KRA 14 #2-41"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000011P",
+        "NombreProductor": "Miguel",
+        "ApellidoProductor": "Chavez",
+        "CedulaProductor": "1025549871",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257869999",
+            "CorreoProductor": "miguel.chavez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3257869999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "SAN JOSE",
+                "Direccion":  "KRA 2 #5-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000012P",
+        "NombreProductor": "Ricardo",
+        "ApellidoProductor": "Juarez",
+        "CedulaProductor": "1025549872",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256889999",
+            "CorreoProductor": "ricardo.juarez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256889999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "VITERBO",
+                "Direccion":  "KRA 16 #8-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000013P",
+        "NombreProductor": "Cristina",
+        "ApellidoProductor": "Solano",
+        "CedulaProductor": "1025549873",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256899999",
+            "CorreoProductor": "cristina.solano@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3256899999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "RISARALDA",
+                "Municipio":  
+                "Direccion":  "KRA 17 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000014P",
+        "NombreProductor": "Gabriela",
+        "ApellidoProductor": "Benjumea",
+        "CedulaProductor": "1025549874",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256909999",
+            "CorreoProductor": "Gabriela.benjumea@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3256909999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "MARULANDA",
+                "Direccion":  "KRA 18 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000015P",
+        "NombreProductor": "Rosalin",
+        "ApellidoProductor": "Betancourt",
+        "CedulaProductor": "1025549875",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256919999",
+            "CorreoProductor": "rosalin.betan@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256919999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "PENSILVANIA",
+                "Direccion":  "KRA 19 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000016P",
+        "NombreProductor": "Rodrigo",
+        "ApellidoProductor": "Diaz",
+        "CedulaProductor": "1025549876",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256929999",
+            "CorreoProductor": "rodrigo.diaz@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256929999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "NEIRA",
+                "Direccion":  "KRA 20 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000017P",
+        "NombreProductor": "Danilo",
+        "ApellidoProductor": "Urie",
+        "CedulaProductor": "1025549877",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256939999",
+            "CorreoProductor": "danilo.urie@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3256939999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "VITERBO",
+                "Direccion":  "KRA 21 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000018P",
+        "NombreProductor": "Gabriel",
+        "ApellidoProductor": "Ferrer",
+        "CedulaProductor": "1025549878",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256949999",
+            "CorreoProductor": "gabriel.ferrer@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1007",
+            "NumeroCuenta": "03256949999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "BELALCAZAR",
+                "Direccion":  "KRA 22 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000019P",
+        "NombreProductor": "David",
+        "ApellidoProductor": "Jimenez",
+        "CedulaProductor": "1025549879",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256959999",
+            "CorreoProductor": "david.jimenez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256959999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "BELALCAZAR",
+                "Direccion":  "KRA 23 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000020P",
+        "NombreProductor": "Jhonatan",
+        "ApellidoProductor": "Torres",
+        "CedulaProductor": "1025549880",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256969999",
+            "CorreoProductor": "jhonatan.torres@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1007",
+            "NumeroCuenta": "03256969999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "SAN JOSE",
+                "Direccion":  "KRA 3 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000021P",
+        "NombreProductor": "Miguel",
+        "ApellidoProductor": "Chavez",
+        "CedulaProductor": "1025549881",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257897999",
+            "CorreoProductor": "miguel.chavez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1801",
+            "NumeroCuenta": "3257897999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "APÍA",
+                "Direccion":  "KRA 15 #5-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000022P",
+        "NombreProductor": "Ricardo",
+        "ApellidoProductor": "Juarez",
+        "CedulaProductor": "1025549882",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256989999",
+            "CorreoProductor": "ricardo.juarez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1007",
+            "NumeroCuenta": "03256989999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "GUÁTICA",
+                "Direccion":  "KRA 16 #8-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000023P",
+        "NombreProductor": "Cristina",
+        "ApellidoProductor": "Solano",
+        "CedulaProductor": "1025549883",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256999999",
+            "CorreoProductor": "cristina.solano@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256999999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "LA CELIA",
+                "Direccion":  "KRA 17 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000024P",
+        "NombreProductor": "Gabriela",
+        "ApellidoProductor": "Benjumea",
+        "CedulaProductor": "1025549844",
+        
+        "Contacto": {
+            "TelefonoProductor": "3251009999",
+            "CorreoProductor": "Gabriela.benjumea@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3251009999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "SANTUARIO",
+                "Direccion":  "KRA 18 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000025P",
+        "NombreProductor": "Rosalin",
+        "ApellidoProductor": "Betancourt",
+        "CedulaProductor": "1025549885",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256101999",
+            "CorreoProductor": "rosalin.betan@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256101999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "QUINCHÍA",
+                "Direccion":  "KRA 19 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000026P",
+        "NombreProductor": "Rodrigo",
+        "ApellidoProductor": "Diaz",
+        "CedulaProductor": "1025549886",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256102999",
+            "CorreoProductor": "rodrigo.diaz@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3256102999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "LA VIRGINIA",
+                "Direccion":  "KRA 20 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000027P",
+        "NombreProductor": "Danilo",
+        "ApellidoProductor": "Urie",
+        "CedulaProductor": "1025549887",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256102899",
+            "CorreoProductor": "danilo.urie@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1007",
+            "NumeroCuenta": "03256102899"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "SANTUARIO",
+                "Direccion":  "KRA 21 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000028P",
+        "NombreProductor": "Gabriel",
+        "ApellidoProductor": "Ferrer",
+        "CedulaProductor": "1025549888",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256103999",
+            "CorreoProductor": "gabriel.ferrer@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3256103999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "LA CELIA",
+                "Direccion":  "KRA 22 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000029P",
+        "NombreProductor": "David",
+        "ApellidoProductor": "Jimenez",
+        "CedulaProductor": "1025549889",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256104999",
+            "CorreoProductor": "david.jimenez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3256104999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "GUÁTICA",
+                "Direccion":  "KRA 23 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000030P",
+        "NombreProductor": "Jhonatan",
+        "ApellidoProductor": "Torres",
+        "CedulaProductor": "1025549890",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256105999",
+            "CorreoProductor": "jhonatan.torres@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1040",
+            "NumeroCuenta": "3256105999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "APÍA",
+                "Direccion":  "KRA 24 #2-89"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000031P",
+        "NombreProductor": "Justin",
+        "ApellidoProductor": "Aguiluz",
+        "CedulaProductor": "1325549891",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256106999",
+            "CorreoProductor": "justin.aguiluz@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1551",
+            "NumeroCuenta": "3256106999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "SALENTO",
+                "Direccion":  "El Jardin"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000032P",
+        "NombreProductor": "Molly",
+        "ApellidoProductor": "Rodriguez",
+        "CedulaProductor": "1425549892",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256107999",
+            "CorreoProductor": "molly.rodriguez@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1801",
+            "NumeroCuenta": "3256107999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "PIJAO",
+                "Direccion":  "El Paraiso"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000033P",
+        "NombreProductor": "Hilda",
+        "ApellidoProductor": "Perez",
+        "CedulaProductor": "1525549893",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256108999",
+            "CorreoProductor": "maria.perez@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256108999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "MONTENEGRO",
+                "Direccion":  "La Luna"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000034P",
+        "NombreProductor": "Dolores",
+        "ApellidoProductor": "Osorio",
+        "CedulaProductor": "1625549894",
+        
+        "Contacto": {
+            "TelefonoProductor": "3257108999",
+            "CorreoProductor": "dolores.osorio@gmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1801",
+            "NumeroCuenta": "3257108999"
+        },
+        "Direccion": {
+                "Departamento":  "QUINDÍO",
+                "Municipio":  "SALENTO",
+                "Direccion":  "El Eden"
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000035P",
+        "NombreProductor": "Esteban",
+        "ApellidoProductor": "Ferrer",
+        "CedulaProductor": "1025549895",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256109999",
+            "CorreoProductor": "esteban.ferrer@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256109999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "BELALCAZAR",
+                "Direccion":  "Agualinda"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000036P",
+        "NombreProductor": "Gerardo",
+        "ApellidoProductor": "Jimenez",
+        "CedulaProductor": "1025549896",
+        
+        "Contacto": {
+            "TelefonoProductor": "3251109999",
+            "CorreoProductor": "gerardo.jimenez@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1801",
+            "NumeroCuenta": "3251109999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "BELALCAZAR",
+                "Direccion":  "El Paisaje"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000037P",
+        "NombreProductor": "Joseph",
+        "ApellidoProductor": "Torres",
+        "CedulaProductor": "1025549897",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256111999",
+            "CorreoProductor": "jodeph.torres@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3256111999"
+        },
+        "Direccion": {
+                "Departamento":  "CALDAS",
+                "Municipio":  "SAN JOSE",
+                "Direccion":  "Aguamarina"
+        }
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000038P",
+        "NombreProductor": "Rigoberto",
+        "ApellidoProductor": "Diaz",
+        "CedulaProductor": "1025549898",
+        
+        "Contacto": {
+            "TelefonoProductor": "3251122999",
+            "CorreoProductor": "rigoberto.diaz@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1507",
+            "NumeroCuenta": "3251122999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "LA VIRGINIA",
+                "Direccion":  "Greenday"
+    }    
+}
+{
+    "Productor": {
+        "IdProductor": "000000039P",
+        "NombreProductor": "Adolfo",
+        "ApellidoProductor": "Torres",
+        "CedulaProductor": "1025549899",
+        
+        "Contacto": {
+            "TelefonoProductor": "3256113999",
+            "CorreoProductor": "adolfo.torres@hotmail.com"
+        },
+
+        "Cuenta": {
+            "CodigoBacario": "1801",
+            "NumeroCuenta": "3256113999"
+        },
+        "Direccion": {
+                "Departamento":  "RISARALDA",
+                "Municipio":  "APÍA",
+                "Direccion":  "El Iris"
+        }
+    }    
+}
+
+

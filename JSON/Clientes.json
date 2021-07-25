@@ -1,0 +1,1105 @@
+{
+    "IdCliente": "000000001C",
+    "IdentificacionCliente": "425695796",
+    "NombreCliente": "Mariana Calle",
+    "TelefonoCliente": "3168945678",
+    "CorreoCliente": "mariana.calle@yahoo.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":  "CALDAS",
+        "Municipio":  "SALAMINA",
+        "Direccion":  "KRA 15 #32-45"
+    }   
+}  
+
+{
+    "IdCliente": "000000002C",
+    "IdentificacionCliente": "7496345894",
+    "NombreCliente": "Marcos Yaroide",
+    "TelefonoCliente": "321654987",
+    "CorreoCliente": "marcos.yaroide@gmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":  "CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 54 #78-96"
+    }   
+}  
+
+{
+    "IdCliente": "000000003C",
+    "IdentificacionCliente": "74586471249-1",
+    "NombreCliente": "MercaCentro",
+    "TelefonoCliente": "3265897486",
+    "CorreoCliente": "marcacentro@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":  "CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 54 #78-96"
+    }   
+}  
+}
+{
+    "IdCliente": "000000004C",
+    "IdentificacionCliente": "95368415664-1",
+    "NombreCliente": "El Ahorro",
+    "TelefonoCliente": "3205698746",
+    "CorreoCliente": "elahorro@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "SALAMINA",
+        "Direccion":  "KRA 4 #7-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000005C",
+    "IdentificacionCliente": "256489758",
+    "NombreCliente": "Marcela Rey",
+    "TelefonoCliente": "3225689741",
+    "CorreoCliente": "marcela.rey@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "PENSILVANIA",
+        "Direccion":  "KRA 8 #25-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000006C",
+    "IdentificacionCliente": "6899557425",
+    "NombreCliente": "Gaby Meza",
+    "TelefonoCliente": "3135698745",
+    "CorreoCliente": "marcacentro@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 28 #15-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000007C",
+    "IdentificacionCliente": "1025698746",
+    "NombreCliente": "Yair Millar",
+    "TelefonoCliente": "3115266987",
+    "CorreoCliente": "yair.millar@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 54 #78-96"   
+    }   
+}  
+
+{
+    "IdCliente": "000000008C",
+    "IdentificacionCliente": "1026354987",
+    "NombreCliente": "Federico Gevy",
+    "TelefonoCliente": "3225649874",
+    "CorreoCliente": "federico.gevy@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "VITERBO",
+        "Direccion":  "KRA 4 #3-15"   
+    }   
+}  
+
+{
+    "IdCliente": "000000009C",
+    "IdentificacionCliente": "10359526387",
+    "NombreCliente": "Nathan Ruslan",
+    "TelefonoCliente": "3236549526",
+    "CorreoCliente": "nathan.Rusla@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "BELALCÁZAR",
+        "Direccion":  "KRA 3 #3-32"   
+    }   
+}  
+
+{
+    "IdCliente": "000000010C",
+    "IdentificacionCliente": "1056897426",
+    "NombreCliente": "Karla Vallesteros",
+    "TelefonoCliente": "3156489526",
+    "CorreoCliente": "karla.vallesteros@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "RISARALDA",
+        "Municipio":  "KRA 5 #2-15"   
+    }   
+}  
+
+{
+    "IdCliente": "000000011C",
+    "IdentificacionCliente": "25658974",
+    "NombreCliente": "Bartolomé West",
+    "TelefonoCliente": "3506258947",
+    "CorreoCliente": "bartolome.west@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "SAMANÁ",
+        "Direccion":  "KRA 85 #78-56"   
+    }   
+}  
+
+{
+    "IdCliente": "000000012C",
+    "IdentificacionCliente": "625899741",
+    "NombreCliente": "Nora Allen",
+    "TelefonoCliente": "3236598746",
+    "CorreoCliente": "nora.allen@gmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "PENSILVANIA",
+        "Direccion":  "KRA 47 #89-25"   
+    }   
+}  
+
+{
+    "IdCliente": "000000013C",
+    "IdentificacionCliente": "1025405977",
+    "NombreCliente": "Oliver Queen",
+    "TelefonoCliente": "3256987461",
+    "CorreoCliente": "oliver.queen@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 12 #58-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000014C",
+    "IdentificacionCliente": "1023654115",
+    "NombreCliente": "Maria Ramón",
+    "TelefonoCliente": "3226985136",
+    "CorreoCliente": "maria.ramon@yahoo.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "FILADELFIA",
+        "Direccion":  "KRA 11 #25-2"   
+    }   
+}  
+
+{
+    "IdCliente": "000000015C",
+    "IdentificacionCliente": "1466840254",
+    "NombreCliente": "Luisa Lane",
+    "TelefonoCliente": "3112065894",
+    "CorreoCliente": "luisa.lane@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 7 #2-1"   
+    }   
+}  
+
+{
+    "IdCliente": "000000016C",
+    "IdentificacionCliente": "15668216161",
+    "NombreCliente": "Clark Kent",
+    "TelefonoCliente": "3205692839",
+    "CorreoCliente": "clark.kent@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 16 #5-9"   
+    }   
+}  
+
+{
+    "IdCliente": "000000017C",
+    "IdentificacionCliente": "1053845697",
+    "NombreCliente": "Alexander Luthor",
+    "TelefonoCliente": "3256985947",
+    "CorreoCliente": "alexander.lutor@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 54 #78-96"   
+    }   
+}  
+
+{
+    "IdCliente": "000000018C",
+    "IdentificacionCliente": "5546134316",
+    "NombreCliente": "Felicia Humo",
+    "TelefonoCliente": "3221684760",
+    "CorreoCliente": "felicia.humo@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "RIOSUCIO",
+        "Direccion":  "KRA 58 #2-3"   
+    }   
+}  
+
+{
+    "IdCliente": "000000019C",
+    "IdentificacionCliente": "1246654451",
+    "NombreCliente": "Laura Lanza",
+    "TelefonoCliente": "3205695418",
+    "CorreoCliente": "laura.lanza@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "LA MERCED",
+        "Direccion":  "KRA 2 #8-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000020C",
+    "IdentificacionCliente": "1235465467",
+    "NombreCliente": "Marcos Mordo",
+    "TelefonoCliente": "3215069874",
+    "CorreoCliente": "marcos.mordo@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "MARMATO",
+        "Direccion":  "KRA 5 #2-89"   
+    }   
+}  
+
+{
+    "IdCliente": "000000021C",
+    "IdentificacionCliente": "56974123258-1",
+    "NombreCliente": "Supermercado del Centro",
+    "TelefonoCliente": "3256489210",
+    "CorreoCliente": "supermercadodelcentro@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "DORADA",
+        "Direccion":  "KRA 2 #45-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000022C",
+    "IdentificacionCliente": "12365974174-1",
+    "NombreCliente": "SuperMarketPlace",
+    "TelefonoCliente": "3216549632",
+    "CorreoCliente": "supermarketplace@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "RIOSUCIO",
+        "Direccion":  "KRA 5 #5-15"   
+    }   
+}  
+
+{
+    "IdCliente": "000000023C",
+    "IdentificacionCliente": "36521689471-1",
+    "NombreCliente": "SuperInter",
+    "TelefonoCliente": "3136589742",
+    "CorreoCliente": "superinter@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "LA MERCED",
+        "Direccion":  "KRA 8 #13-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000024C",
+    "IdentificacionCliente": "56973365145-1",
+    "NombreCliente": "El Punto A",
+    "TelefonoCliente": "3203695140",
+    "CorreoCliente": "elpuntoa@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "FILADELFIA",
+        "Direccion":  "KRA 4 #86-23"   
+    }   
+}  
+
+{
+    "IdCliente": "000000025C",
+    "IdentificacionCliente": "13659755264-1",
+    "NombreCliente": "Tienda la Esquina",
+    "TelefonoCliente": "3503201569",
+    "CorreoCliente": "tiendaesqina@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "ANSERMA",
+        "Direccion":  "KRA 5 #14-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000026C",
+    "IdentificacionCliente": "26968745675-1",
+    "NombreCliente": "Tienda el Centro",
+    "TelefonoCliente": "3206598746",
+    "CorreoCliente": "tiendaelcentro@yahoo.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "MARULANDA",
+        "Direccion":  "KRA 24 #78-9"   
+    }   
+}  
+
+{
+    "IdCliente": "000000027C",
+    "IdentificacionCliente": "36925814741-1",
+    "NombreCliente": "Tienda la Izquierda",
+    "TelefonoCliente": "3205698720",
+    "CorreoCliente": "tiendaizquiera@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "RIOSUCIO",
+        "Direccion":  "KRA 62 #3-2"   
+    }   
+}  
+
+{
+    "IdCliente": "000000028C",
+    "IdentificacionCliente": "75315985264-1",
+    "NombreCliente": "Tienda 4 esquinas",
+    "TelefonoCliente": "3102589164",
+    "CorreoCliente": "tienda4esquinas@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "NEIRA",
+        "Direccion":  "KRA 15 #2-13"   
+    }   
+}  
+
+{
+    "IdCliente": "000000029C",
+    "IdentificacionCliente": "95123698745-1",
+    "NombreCliente": "Tienda el tercio",
+    "TelefonoCliente": "3236509874",
+    "CorreoCliente": "tiendaeltercio@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "PALESTINA",
+        "Direccion":  "KRA 5 #2-11"   
+    }   
+}  
+
+{
+    "IdCliente": "000000030C",
+    "IdentificacionCliente": "32159874625-1",
+    "NombreCliente": "SuperCentro",
+    "TelefonoCliente": "3256484796",
+    "CorreoCliente": "supercentro@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "CHINCHINÁ",
+        "Direccion":  "KRA 47 #5-13"   
+    }   
+}  
+
+{
+    "IdCliente": "000000031C",
+    "IdentificacionCliente": "275658974",
+    "NombreCliente": "Beatriz Suarez",
+    "TelefonoCliente": "3215896431",
+    "CorreoCliente": "beatriz.suarez@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "CHINCHINÁ",
+        "Direccion":  "KRA 5 #10-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000032C",
+    "IdentificacionCliente": "6258899741",
+    "NombreCliente": "Ignacio Sánchez",
+    "TelefonoCliente": "3115206947",
+    "CorreoCliente": "ignacio.sanchez@gmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "PENSILVANIA",
+        "Direccion":  "KRA 4 #5-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000033C",
+    "IdentificacionCliente": "102405977",
+    "NombreCliente": "Miguel Reyes",
+    "TelefonoCliente": "3114685069",
+    "CorreoCliente": "miguel.reyes@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "MANIZALES",
+        "Direccion":  "KRA 4 #4-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000034C",
+    "IdentificacionCliente": "102364115",
+    "NombreCliente": "Daniel Medina",
+    "TelefonoCliente": "3224581030",
+    "CorreoCliente": "daniel.medina@yahoo.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "MANIZALES",
+        "Direccion":  "KRA 23 #4-20"   
+    }   
+}  
+
+{
+    "IdCliente": "000000035C",
+    "IdentificacionCliente": "146680254",
+    "NombreCliente": "Bruno Díaz",
+    "TelefonoCliente": "3142506958",
+    "CorreoCliente": "bruno.diaz@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "PALESTINA",
+        "Direccion":  "KRA 7 #21-125"   
+    }   
+}  
+
+{
+    "IdCliente": "000000036C",
+    "IdentificacionCliente": "1566816161",
+    "NombreCliente": "Selena Kyle",
+    "TelefonoCliente": "3152039988",
+    "CorreoCliente": "selena.kyle@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "SALAMINA",
+        "Direccion":  "KRA 7 #5-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000037C",
+    "IdentificacionCliente": "1053844316",
+    "NombreCliente": "Alexis Pinzón",
+    "TelefonoCliente": "3005891060",
+    "CorreoCliente": "alexis.pinzon@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "RIOSUCIO",
+        "Direccion":  "KRA 58 #24-3"   
+    }   
+}  
+
+{
+    "IdCliente": "000000039C",
+    "IdentificacionCliente": "124665451",
+    "NombreCliente": "Amanda Salgado",
+    "TelefonoCliente": "3205554101",
+    "CorreoCliente": "amanda.salgado@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "PÁCORA",
+        "Direccion":  "KRA 24 #18-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000040C",
+    "IdentificacionCliente": "123546467",
+    "NombreCliente": "Franchezca Michaels",
+    "TelefonoCliente": "3256641520",
+    "CorreoCliente": "franchezca.michaels@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"CALDAS",
+        "Municipio":  "MANIZALES",
+    "CorreoCliente": "KRA 5 #2-89"   
+    }   
+}  
+
+{
+    "IdCliente": "000000041C",
+    "IdentificacionCliente": "85269820120-1",
+    "NombreCliente": "Super Estación",
+    "TelefonoCliente": "3256502144",
+    "CorreoCliente": "superestacion@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "DOSQUEBRADAS",
+        "Direccion":  "KRA 2 #45-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000042C",
+    "IdentificacionCliente": "56985300140-1",
+    "NombreCliente": "La Tiena de Ruby",
+    "TelefonoCliente": "3256478000",
+    "CorreoCliente": "latiendaderuby@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "PEREIRA",
+        "Direccion":  "KRA 5 #5-15"   
+    }   
+}  
+
+{
+    "IdCliente": "000000043C",
+    "IdentificacionCliente": "42366514775-1",
+    "NombreCliente": "La Esquina de Rut",
+    "TelefonoCliente": "3115497899",
+    "CorreoCliente": "laesquinaderut@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "GUATICA",
+        "Direccion":  "KRA 8 #13-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000044C",
+    "IdentificacionCliente": "25801366957-1",
+    "NombreCliente": "La tienda de Juan",
+    "TelefonoCliente": "3504788871",,
+    "CorreoCliente": "latiendadejuan@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "APÍA",
+        "Direccion":  "KRA 4 #86-23"   
+    }   
+}  
+
+{
+    "IdCliente": "000000045C",
+    "IdentificacionCliente": "10355000144-1",
+    "NombreCliente": "Perla 3 esqinas",
+    "TelefonoCliente": "3256480011",
+    "CorreoCliente": "perla3esqinas@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "LA VIRGINIA",
+        "Direccion":  "KRA 5 #14-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000046C",
+    "IdentificacionCliente": "56325001014-1",
+    "NombreCliente": "La mongo tienda",
+    "TelefonoCliente": "3206509866",
+    "CorreoCliente": "lamongotienda@yahoo.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "PEREIRA",
+        "Direccion":  "KRA 24 #78-9"   
+    }   
+}  
+
+{
+    "IdCliente": "000000047C",
+    "IdentificacionCliente": "10236025014-1",
+    "NombreCliente": "JavaMarket",
+    "TelefonoCliente": "3221450133",
+    "CorreoCliente": "javamarket@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "LA VRGINIA",
+        "Direccion":  "KRA 62 #3-2"   
+    }   
+}  
+
+{
+    "IdCliente": "000000048C",
+    "IdentificacionCliente": "59601014452-1",
+    "NombreCliente": "El Zoomeet",
+    "TelefonoCliente": "3213236501",
+    "CorreoCliente": "elzooomeet@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "DOSQUEBRADAS",
+        "Direccion":  "KRA 15 #2-13"   
+    }   
+}  
+
+{
+    "IdCliente": "000000049C",
+    "IdentificacionCliente": "25600133658-1",
+    "NombreCliente": "Market Teams",
+    "TelefonoCliente": "3251026958",
+    "CorreoCliente": "marketteams@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "PEREIRA",
+        "Direccion":  "KRA 5 #2-11"   
+    }   
+}  
+
+{
+    "IdCliente": "000000050C",
+    "IdentificacionCliente": "14500012667-1",
+    "NombreCliente": "La gran esquina",
+    "TelefonoCliente": "3502206687",
+    "CorreoCliente": "lagranesqina@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "PEREIRA",
+        "Direccion":  "KRA 47 #5-13"   
+    }   
+}  
+
+{
+    "IdCliente": "000000051C",
+    "IdentificacionCliente": "1231313355",
+    "NombreCliente": "Paolo Franco",
+    "TelefonoCliente": "3220059847",
+    "CorreoCliente": "paolo.franco@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "PEREIRA",
+        "Direccion":  "KRA 5 #10-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000052C",
+    "IdentificacionCliente": "5456145774",
+    "NombreCliente": "Pedro Pascal",
+    "TelefonoCliente": "3210256974",
+    "CorreoCliente": "pedro.pascal@gmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "PEREIRA",
+        "Direccion":  "KRA 4 #5-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000053C",
+    "IdentificacionCliente": "1002032377",
+    "NombreCliente": "Judas Tadeo",
+    "TelefonoCliente": "3002552147",
+    "CorreoCliente": "judas.tadeo@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "APÍA",
+        "Direccion":  "KRA 4 #4-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000054C",
+    "IdentificacionCliente": "4551515151",
+    "NombreCliente": "Pablo Escobar",
+    "TelefonoCliente": "3256981024",
+    "CorreoCliente": "pablo.escobar@yahoo.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "APÍA",
+        "Direccion":  "KRA 23 #4-20"   
+    }   
+}  
+
+{
+    "IdCliente": "000000055C",
+    "IdentificacionCliente": "454634144",
+    "NombreCliente": "Andrea Serna",
+    "TelefonoCliente": "3142556958",
+    "CorreoCliente": "andrea.serna@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "DOSQUEBRADAS",
+        "Direccion":  "KRA 7 #21-125"   
+    }   
+}  
+
+{
+    "IdCliente": "000000056C",
+    "IdentificacionCliente": "12121252515",
+    "NombreCliente": "Camila Calvo",
+    "TelefonoCliente": "3152037988",
+    "CorreoCliente": "camila.calvo@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "LA VRGINIA",
+        "Direccion":  "KRA 7 #5-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000057C",
+    "IdentificacionCliente": "10255424474",
+    "NombreCliente": "Armando Casas",
+    "TelefonoCliente": "3151029854",
+    "CorreoCliente": "armando.casas@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "LA VRGINIA",
+        "Direccion":  "KRA 4 #10-6"   
+    }   
+}  
+
+{
+    "IdCliente": "000000058C",
+    "IdentificacionCliente": "100055544",
+    "NombreCliente": "Cristina Llaves",
+    "TelefonoCliente": "3005881060",
+    "CorreoCliente": "cristina.llaves@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "DOSQUEBRADAS",
+        "Direccion":  "KRA 58 #24-3"   
+    }   
+}  
+
+{
+    "IdCliente": "000000059C",
+    "IdentificacionCliente": "100005558647",
+    "NombreCliente": "Bill Windows",
+    "TelefonoCliente": "3209554101",
+    "CorreoCliente": "bill.windows@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "LA VRGINIA",
+        "Direccion":  "KRA 24 #18-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000060C",
+    "IdentificacionCliente": "102010247",
+    "NombreCliente": "Lebron Jordan",
+    "TelefonoCliente": "3256648520",
+    "CorreoCliente": "lebron.jordan@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"RISARALDA",
+        "Municipio":  "DOSQUEBRADAS",
+        "Direccion":  "KRA 5 #2-89"   
+    }   
+}  
+
+{
+    "IdCliente": "000000061C",
+    "IdentificacionCliente": "65652141354-1",
+    "NombreCliente": "SuperTiendita",
+    "TelefonoCliente": "3256669874",
+    "CorreoCliente": "supertiendita@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "QUIMABAYA",
+        "Direccion":  "KRA 2 #45-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000062C",
+    "IdentificacionCliente": "15348646343-1",
+    "NombreCliente": "La Tiena de Lebron",
+    "TelefonoCliente": "3146668952",
+    "CorreoCliente": "latiendadelebron@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "MONTENEGRO",
+        "Direccion":  "KRA 5 #5-15"   
+    }   
+}  
+
+{
+    "IdCliente": "000000063C",
+    "IdentificacionCliente": "45348687497-1",
+    "NombreCliente": "La Esquina de Miguel",
+    "TelefonoCliente": "3202225147",
+    "CorreoCliente": "laesquinademiguel@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "MONTENEGRO",
+        "Direccion":  "KRA 8 #13-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000064C",
+    "IdentificacionCliente": "34831435938-1",
+    "NombreCliente": "La tienda de Laura",
+    "TelefonoCliente": "3222145500",
+    "CorreoCliente": "latiendadelaura@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "ARMENIA",
+        "Direccion":  "KRA 4 #86-23"   
+    }   
+}  
+
+{
+    "IdCliente": "000000065C",
+    "IdentificacionCliente": "55663654475-1",
+    "NombreCliente": "Diamante 4 esquians",
+    "TelefonoCliente": "3214501441",
+    "CorreoCliente": "diamante4esqinas@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "ARMENIA",
+        "Direccion":  "KRA 5 #14-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000066C",
+    "IdentificacionCliente": "12365556843-1",
+    "NombreCliente": "La sql tienda",
+    "TelefonoCliente": "3502654994",
+    "CorreoCliente": "lasqltienda@yahoo.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "QUIMBAYA",
+        "Direccion":  "KRA 24 #78-9"   
+    }   
+}  
+
+{
+    "IdCliente": "000000067C",
+    "IdentificacionCliente": "89646546846-1",
+    "NombreCliente": "RubyMarket",
+    "TelefonoCliente": "3006002020",
+    "CorreoCliente": "rubymarket@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "CIRCASIA",
+        "Direccion":  "KRA 62 #3-2"   
+    }   
+}  
+
+{
+    "IdCliente": "000000068C",
+    "IdentificacionCliente": "54343643833-1",
+    "NombreCliente": "El gugulteams",
+    "TelefonoCliente": "3251010101",
+    "CorreoCliente": "elgugulteams@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "CIRCASIA",
+        "Direccion":  "KRA 15 #2-13"   
+    }   
+}  
+
+{
+    "IdCliente": "000000069C",
+    "IdentificacionCliente": "15546565564-1",
+    "NombreCliente": "Market Live",
+    "TelefonoCliente": "3210254646",
+    "CorreoCliente": "marketlive@hotmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "ARMENIA",
+        "Direccion":  "KRA 5 #2-11"   
+    }   
+}  
+
+{
+    "IdCliente": "000000070C",
+    "IdentificacionCliente": "48936441681-1",
+    "NombreCliente": "La gran Cuadra",
+    "TelefonoCliente": "3201452233",
+    "CorreoCliente": "lagranecuadra@gmail.com",
+    "TipoCliente": "ESTABLECIMIENTO",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "ARMENIA",
+        "Direccion":  "KRA 47 #5-13"   
+    }   
+}  
+
+{
+    "IdCliente": "000000071C",
+    "IdentificacionCliente": "132558135",
+    "NombreCliente": "Jhon Snow",
+    "TelefonoCliente": "3156065825",
+    "CorreoCliente": "jhon.snow@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "QUIMBAYA",
+        "Direccion":  "KRA 5 #10-5"   
+    }   
+}  
+
+{
+    "IdCliente": "000000072C",
+    "IdentificacionCliente": "102565445",
+    "NombreCliente": "Adrian Silva",
+    "TelefonoCliente": "3235206341",
+    "CorreoCliente": "adrian.silva@gmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "QUIMBAYA",
+        "Direccion":  "KRA 4 #5-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000073C",
+    "IdentificacionCliente": "10000256444",
+    "NombreCliente": "Judas Iscariote",
+    "TelefonoCliente": "3002582581",
+    "CorreoCliente": "judas.iscariote@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "MONTENEGO",
+        "Direccion":  "KRA 4 #4-10"   
+    }   
+}  
+
+{
+    "IdCliente": "000000074C",
+    "IdentificacionCliente": "1032012558",
+    "NombreCliente": "Paolo Escobar",
+    "TelefonoCliente": "3022025022",
+    "CorreoCliente": "paolo.escobar@yahoo.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "APÍA",
+        "Direccion":  "MONTENEGRO 23 #4-20"   
+    }   
+}  
+
+{
+    "IdCliente": "000000075C",
+    "IdentificacionCliente": "1520265695",
+    "NombreCliente": "Lina Serna",
+    "TelefonoCliente": "3012020303",
+    "CorreoCliente": "lina.serna@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "CIRCASIA",
+        "Direccion":  "KRA 7 #21-125"   
+    }   
+}  
+
+{
+    "IdCliente": "000000076C",
+    "IdentificacionCliente": "25266644",
+    "NombreCliente": "Camila Cabello",
+    "TelefonoCliente": "3013032020",
+    "CorreoCliente": "camila.cabello@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "CIRCASIA",
+        "Direccion":  "KRA 7 #5-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000077C",
+    "IdentificacionCliente": "2036554111",
+    "NombreCliente": "Armando Paredes",
+    "TelefonoCliente": "3506502250",
+    "CorreoCliente": "armando.paredes@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "MONTENEGRO",
+        "Direccion":  "KRA 4 #10-6"   
+    }   
+}  
+
+{
+    "IdCliente": "000000078C",
+    "IdentificacionCliente": "10266999",
+    "NombreCliente": "Cristina Segura",
+    "TelefonoCliente": "3012051010",
+    "CorreoCliente": "cristina.segura@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "ARMENIA",
+        "Direccion":  "KRA 58 #24-3"   
+    }   
+}  
+
+{
+    "IdCliente": "000000079C",
+    "IdentificacionCliente": "302541044",
+    "NombreCliente": "Bill Apple",
+    "TelefonoCliente": "3165004164",
+    "CorreoCliente": "bill.apple@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Municipio":  "ARMENIA",
+        "Direccion":  "KRA 24 #18-8"   
+    }   
+}  
+
+{
+    "IdCliente": "000000080C",
+    "IdentificacionCliente": "9620465412",
+    "NombreCliente": "Michael James",
+    "TelefonoCliente": "3203653232",
+    "CorreoCliente": "michael.james@hotmail.com",
+    "TipoCliente": "PERSONA",
+    "Direccion": {
+        "Departamento":"QUINDÍO",
+        "Direccion":  "DOSQUEBRADAS",
+        "Direccion":  "KRA 5 #2-89"   
+    }   
+}  

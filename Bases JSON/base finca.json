@@ -1,0 +1,584 @@
+{
+    "Finca":{
+            "IdFinca": "",
+            "NombreFinca": "",
+            "IdProductor": "",
+            "Superficie": ,
+            "Ubicacion":{
+                "Departamento": "",
+                "Municipio": "",
+                "Vereda": "",
+                "GPS": ""                
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+
+{
+    "Finca":{
+            "IdFinca": "000000001F",
+            "NombreFinca": "El Jardin",     
+            "IdProductor": "",
+            "Superficie": 18000,
+            "Ubicacion":{
+                "Departamento": "QUINDÍO",
+                "Municipio": "SALENTO",
+                "Vereda": "La Julia",
+                "GPS": "4.640340, -75.576294"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000002F",
+            "NombreFinca": "El Paraiso",     
+            "IdProductor": "",
+            "Superficie": 16400,
+            "Ubicacion":{
+                "Departamento": "QUINDÍO",
+                "Municipio": "PIJAO",
+                "Vereda": "La torre",
+                "GPS": "4.341234, -75.700330"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000003F",
+            "NombreFinca": "La Luna",     
+            "IdProductor": "",
+            "Superficie": 12000,
+            "Ubicacion":{
+                "Departamento": "QUINDÍO",
+                "Municipio": "MONTENEGRO",
+                "Vereda": "El cacho",
+                "GPS": "4.561800, -75.760424"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000004F",
+            "NombreFinca": "El Eden",     
+            "IdProductor": "",
+            "Superficie": 22000,
+            "Ubicacion":{
+                "Departamento": "QUINDÍO",
+                "Municipio": "SALENTO",
+                "Vereda": "El cuerno",
+                "GPS": "4.648064, -75.570482"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000005F",
+            "NombreFinca": "Agualinda",     
+            "IdProductor": "",
+            "Superficie": 11000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "BELALCAZAR",
+                "Vereda": "Vacaloka",
+                "GPS": "5.018730, -75.795985"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000006F",
+            "NombreFinca": "El Paisaje",     
+            "IdProductor": "",
+            "Superficie": 34000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "BELALCAZAR",
+                "Vereda": "Cuernavaca",
+                "GPS": "4.980006, -75.812760"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000007F",
+            "NombreFinca": "Aguamarina",     
+            "IdProductor": "",
+            "Superficie": 16000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "SAN JOSE",
+                "Vereda": "El contento",
+                "GPS": "5.086697, -75.799765"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000008F",
+            "NombreFinca": "Greenday",     
+            "IdProductor": "",
+            "Superficie": 25000,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "LA VIRGINIA",
+                "Vereda": "El toreto",
+                "GPS": "4.900485, -75.858790"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000009F",
+            "NombreFinca": "El Iris",     
+            "IdProductor": "",
+            "Superficie": 21000,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "APÍA",
+                "Vereda": "El agunaldo",
+                "GPS": "5.100078, -75.950973"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+
+{
+    "Finca":{
+            "IdFinca": "000000010F",
+            "NombreFinca": "El Isis",     
+            "IdProductor": "000000010P",
+            "Superficie": 21000,
+            "Ubicacion":{
+                "Departamento": "QUINDÍO",
+                "Municipio": "MONTENEGRO",
+                "Vereda": "El cazador",
+                "GPS": "5.100078, -75.950973"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000011F",
+            "NombreFinca": "El Pascal",     
+            "IdProductor": "000000009P",
+            "Superficie": 18000,
+            "Ubicacion":{
+                "Departamento": "QUINDÍO",
+                "Municipio": "SALENTO",
+                "Vereda": "La caza",
+                "GPS": "4.640340, -75.576294"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+
+{
+    "Finca":{
+            "IdFinca": "000000012F",
+            "NombreFinca": "El milimetro",     
+            "IdProductor": "000000011P",
+            "Superficie": 16400,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "SAN JOSE",
+                "Vereda": "El perro feliz",
+                "GPS": "4.412384, -75.790330"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000013F",
+            "NombreFinca": "La Mercuria",     
+            "IdProductor": "000000012P",
+            "Superficie": 12000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio":      
+            "IdProductor": "",
+            "Superficie": ,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "La petunia",
+                "Vereda": 
+                "GPS": "4.618080, -75.790424"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000014F",
+            "NombreFinca": "Ostras",     
+            "IdProductor": "000000013P",
+            "Superficie": 28000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "MARULANDA",
+                "Vereda": "El caharro",
+                "GPS": "4.480684, -75.590482"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000015F",
+            "NombreFinca": "La Ortogonal",     
+            "IdProductor": "000000014P",
+            "Superficie": 94000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "NEIRA",
+                "Vereda": "Aranjueces",
+                "GPS": "5.187380, -75.790985"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000016F",
+            "NombreFinca": "El paisay",     
+            "IdProductor": "000000016P",
+            "Superficie": 34000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "VITERBO",
+                "Vereda": "El filtro",
+                "GPS": "4.800086, -75.890760"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000017F",
+            "NombreFinca": "La mermeid",     
+            "IdProductor": "000000017P",
+            "Superficie": 16000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "BELALCAZAR",
+                "Vereda": "El notch",
+                "GPS": "5.866987, -75.790765"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000018F",
+            "NombreFinca": "Sirenas",     
+            "IdProductor": "000000018P",
+            "Superficie": 55000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "BELALCAZAR",
+                "Vereda": "El paseo",
+                "GPS": "4.004885, -75.890790"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000019F",
+            "NombreFinca": "La Finquita",     
+            "IdProductor": "000000019P",
+            "Superficie": 55000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "BELALCAZAR",
+                "Vereda": "El paseo",
+                "GPS": "4.004585, -75.990690"
+            },
+            "Certificacion":[
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000020F",
+            "NombreFinca": "El cambio",     
+            "IdProductor": "000000020P",
+            "Superficie": 35000,
+            "Ubicacion":{
+                "Departamento": "CALDAS",
+                "Municipio": "SAN JOSE",
+                "Vereda": "El pueblo",
+                "GPS": "5.000788, -75.990973"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+
+{
+    "Finca":{
+            "IdFinca": "000000021F",
+            "NombreFinca": "Las Sierras",     
+            "IdProductor": "000000021P",
+            "Superficie": 21000,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "APÍA",
+                "Vereda": "El pato",
+                "GPS": "5.800778, -75.250973"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000022F",
+            "NombreFinca": "La tibia",     
+            "IdProductor": "000000022P",
+            "Superficie": 18000,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "GUÁTICA",
+                "Vereda": "La garacha",
+                "GPS": "4.840740, -75.256294"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000023F",
+            "NombreFinca": "El peroné",     
+            "IdProductor": "000000023P",
+            "Superficie": 16400,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "SAN JOSE",
+                "Vereda": "La José",
+                "GPS": "4.841734, -75.250330"
+            },
+            "Certificacion":[]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000024F",
+            "NombreFinca": "La home",     
+            "IdProductor": "000000024P",
+            "Superficie": 15400,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "LA CELIA",
+                "Vereda": "Taciturnia",
+                "GPS": "4.861700, -75.250424"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+} 
+{
+    "Finca":{
+            "IdFinca": "000000025F",
+            "NombreFinca": "El Fasanfurius",     
+            "IdProductor": "000000025P",
+            "Superficie": 22000,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "SANTUARIO",
+                "Vereda": "Esperanza",
+                "GPS": "4.848764, -75.250482"
+            },
+            "Certificacion":[
+            {
+                "NombreCertificacion": "",
+                "Descripcion": "",
+                "FechaDeCertificacion":"",
+                "Vigencia":  ""         
+            }
+            ]
+    }
+}
+{
+    "Finca":{
+            "IdFinca": "000000026F",
+            "NombreFinca": "Lasso Peeta",     
+            "IdProductor": "000000026P",
+            "Superficie": 99000,
+            "Ubicacion":{
+                "Departamento": "RISARALDA",
+                "Municipio": "QUINCHÍA",
+                "Vereda": "La Pata",
+                "GPS": "4.848764, -75.250482"
+            },
+            "Certificacion":[]
+    }
+}
+    
