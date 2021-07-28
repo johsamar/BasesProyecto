@@ -1,31 +1,8 @@
 {
     "Finca":{
-            "IdFinca": "",
-            "NombreFinca": "",
-            "IdProductor": "",
-            "Superficie": ,
-            "Ubicacion":{
-                "Departamento": "",
-                "Municipio": "",
-                "Vereda": "",
-                "GPS": ""                
-            },
-            "Certificacion":[
-            {
-                "NombreCertificacion": "",
-                "Descripcion": "",
-                "FechaDeCertificacion":"",
-                "Vigencia":  ""         
-            }
-            ]
-    }
-}
-
-{
-    "Finca":{
             "IdFinca": "000000001F",
             "NombreFinca": "El Jardin",     
-            "IdProductor": "",
+            "IdProductor": "000000031P",
             "Superficie": 18000,
             "Ubicacion":{
                 "Departamento": "QUINDÍO",
@@ -47,7 +24,7 @@
     "Finca":{
             "IdFinca": "000000002F",
             "NombreFinca": "El Paraiso",     
-            "IdProductor": "",
+            "IdProductor": "000000032P",
             "Superficie": 16400,
             "Ubicacion":{
                 "Departamento": "QUINDÍO",
@@ -69,7 +46,7 @@
     "Finca":{
             "IdFinca": "000000003F",
             "NombreFinca": "La Luna",     
-            "IdProductor": "",
+            "IdProductor": "000000033P",
             "Superficie": 12000,
             "Ubicacion":{
                 "Departamento": "QUINDÍO",
@@ -91,7 +68,7 @@
     "Finca":{
             "IdFinca": "000000004F",
             "NombreFinca": "El Eden",     
-            "IdProductor": "",
+            "IdProductor": "000000034P",
             "Superficie": 22000,
             "Ubicacion":{
                 "Departamento": "QUINDÍO",
@@ -113,7 +90,7 @@
     "Finca":{
             "IdFinca": "000000005F",
             "NombreFinca": "Agualinda",     
-            "IdProductor": "",
+            "IdProductor": "000000035P",
             "Superficie": 11000,
             "Ubicacion":{
                 "Departamento": "CALDAS",
@@ -135,7 +112,7 @@
     "Finca":{
             "IdFinca": "000000006F",
             "NombreFinca": "El Paisaje",     
-            "IdProductor": "",
+            "IdProductor": "000000036P",
             "Superficie": 34000,
             "Ubicacion":{
                 "Departamento": "CALDAS",
@@ -157,7 +134,7 @@
     "Finca":{
             "IdFinca": "000000007F",
             "NombreFinca": "Aguamarina",     
-            "IdProductor": "",
+            "IdProductor": "000000037P",
             "Superficie": 16000,
             "Ubicacion":{
                 "Departamento": "CALDAS",
@@ -179,7 +156,7 @@
     "Finca":{
             "IdFinca": "000000008F",
             "NombreFinca": "Greenday",     
-            "IdProductor": "",
+            "IdProductor": "000000038P",
             "Superficie": 25000,
             "Ubicacion":{
                 "Departamento": "RISARALDA",
@@ -201,7 +178,7 @@
     "Finca":{
             "IdFinca": "000000009F",
             "NombreFinca": "El Iris",     
-            "IdProductor": "",
+            "IdProductor": "000000039P",
             "Superficie": 21000,
             "Ubicacion":{
                 "Departamento": "RISARALDA",
