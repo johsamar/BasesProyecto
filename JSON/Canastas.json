@@ -1,0 +1,2982 @@
+[{
+   
+    "IdCanasta": "CA00000001",
+    "IdCliente": "000000001C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000027",
+       "FechaPedido": "20/03/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000032",
+       "FechaPedido": "20/02/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "20/02/2021",
+       "Cantidad":  1}]},
+{
+    
+        "IdCanasta": "CA00000002",
+    "IdCliente": "000000001C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000280",
+       "FechaPedido": "02/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000180",
+       "FechaPedido": "20/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000267",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  1}]},{
+    
+        "IdCanasta": "CA00000003",
+    "IdCliente": "000000001C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000320",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000290",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000004",
+    "IdCliente": "000000002C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000061",
+        "FechaPedido": "13/05/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000050",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  1}]},{
+    
+        "IdCanasta": "CA00000005",
+    "IdCliente": "000000002C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000261",
+        "FechaPedido": "20/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000198",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  3}]},
+{
+    
+        "IdCanasta": "CA00000006",
+    "IdCliente": "000000003C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000167",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000132",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2}]},{
+    
+        "IdCanasta": "CA00000007",
+    "IdCliente": "000000003C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000045",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000082",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  5}]},{
+    
+        "IdCanasta": "CA00000008",
+    "IdCliente": "000000004C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000145",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000183",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000283",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000245",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000009",
+    "IdCliente": "000000004C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000245",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000233",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000093",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000065",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2}]},
+       {
+        
+        "IdCanasta": "CA00000010",
+    "IdCliente": "000000006C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000045",
+       "FechaPedido": "12/05/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000083",
+       "FechaPedido": "23/06/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000283",
+       "FechaPedido": "13/06/2021",
+       "Cantidad":  3}]},
+{
+    
+        "IdCanasta": "CA00000011",
+    "IdCliente": "000000008C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000005",
+       "FechaPedido": "12/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000123",
+       "FechaPedido": "23/06/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000012",
+    "IdCliente": "000000008C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000035",
+       "FechaPedido": "12/06/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000253",
+       "FechaPedido": "23/06/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000013",
+    "IdCliente": "000000010C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000255",
+       "FechaPedido": "12/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000303",
+       "FechaPedido": "23/06/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000014",
+    "IdCliente": "000000010C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000063",
+       "FechaPedido": "05/03/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000099",
+       "FechaPedido": "23/04/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000199",
+       "FechaPedido": "13/04/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000209",
+       "FechaPedido": "13/04/2021",
+       "Cantidad":  3}]},
+{
+    
+        "IdCanasta": "CA00000015",
+    "IdCliente": "000000010C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000163",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000198",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000299",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000168",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  3}]},
+{
+    
+        "IdCanasta": "CA00000016",
+    "IdCliente": "000000011C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000045",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000178",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000293",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000157",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000017",
+    "IdCliente": "000000013C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000298",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000175",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  4},
+        {
+       "IdProductoEnVenta": "PV00000168",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000012",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  1}]},{
+    
+        "IdCanasta": "CA00000018",
+    "IdCliente": "000000013C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000056",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000033",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000100",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000150",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  2}]},
+       {
+        
+        "IdCanasta": "CA00000019",
+    "IdCliente": "000000015C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000032",
+       "FechaPedido": "15/05/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "14/05/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000184",
+       "FechaPedido": "13/05/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000254",
+       "FechaPedido": "13/05/2021",
+       "Cantidad":  3}]},
+{
+    
+        "IdCanasta": "CA00000020",
+    "IdCliente": "000000015C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000018",
+       "FechaPedido": "15/06/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000025",
+       "FechaPedido": "14/06/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000125",
+       "FechaPedido": "13/06/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000250",
+       "FechaPedido": "13/06/2021",
+       "Cantidad":  2}]},{
+    
+        "IdCanasta": "CA00000021",
+    "IdCliente": "000000015C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000118",
+       "FechaPedido": "15/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000225",
+       "FechaPedido": "14/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000132",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000250",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  4}]},
+{
+    
+        "IdCanasta": "CA00000022",
+    "IdCliente": "000000015C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000119",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000226",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000133",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000251",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  4}]},
+{
+    
+        "IdCanasta": "CA00000023",
+    "IdCliente": "000000017C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000300",
+       "FechaPedido": "15/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000200",
+       "FechaPedido": "14/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000100",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000007",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000025",
+    "IdCliente": "000000017C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000301",
+        "FechaPedido": "23/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000201",
+        "FechaPedido": "23/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000101",
+        "FechaPedido": "23/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000007",
+       "FechaPedido": "23/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000105",
+       "FechaPedido": "23/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000026",
+    "IdCliente": "000000019C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000305",
+       "FechaPedido": "15/07/2021",
+       "Cantidad":  3}, 
+        {
+       "IdProductoEnVenta": "PV00000205",
+       "FechaPedido": "14/07/2021",
+       "Cantidad":  2}, 
+        {
+       "IdProductoEnVenta": "PV00000105",
+       "FechaPedido": "13/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000027",
+    "IdCliente": "000000019C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000310",
+       "FechaPedido": "15/06/2021",
+       "Cantidad":  4},
+        {
+       "IdProductoEnVenta": "PV00000215",
+       "FechaPedido": "14/06/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000115",
+       "FechaPedido": "13/06/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000028",
+    "IdCliente": "000000020C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000036",
+       "FechaPedido": "15/04/2021",
+       "Cantidad":  4},
+        {
+       "IdProductoEnVenta": "PV00000238",
+       "FechaPedido": "14/04/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000134",
+       "FechaPedido": "13/04/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000029",
+    "IdCliente": "000000020C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000137",
+       "FechaPedido": "15/06/2021",
+       "Cantidad":  4
+        },
+        {
+       "IdProductoEnVenta": "PV00000039",
+       "FechaPedido": "14/06/2021",
+       "Cantidad":  3}]},
+
+       {
+    
+        "IdCanasta": "CA00000031",
+    "IdCliente": "000000020C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+    {
+       "IdProductoEnVenta": "PV00000136",
+       "FechaPedido": "15/06/2021",
+       "Cantidad":  4},
+    {
+       "IdProductoEnVenta": "PV00000038",
+       "FechaPedido": "14/06/2021",
+       "Cantidad":  3}]},{
+    
+        "IdCanasta": "CA00000032",
+    "IdCliente": "000000022C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000056",
+       "FechaPedido": "16/04/2021",
+       "Cantidad":  6},
+        {
+       "IdProductoEnVenta": "PV00000234",
+       "FechaPedido": "16/04/2021",
+       "Cantidad":  6},
+        {
+       "IdProductoEnVenta": "PV00000178",
+       "FechaPedido": "16/04/2021",
+       "Cantidad":  6},
+        {
+       "IdProductoEnVenta": "PV00000012",
+       "FechaPedido": "16/04/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000267",
+       "FechaPedido": "16/04/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000126",
+       "FechaPedido": "16/04/2021",
+       "Cantidad":  8}]},
+{
+    
+        "IdCanasta": "CA00000033",
+    "IdCliente": "000000022C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000056",
+       "FechaPedido": "16/05/2021",
+       "Cantidad":  6},
+        {
+       "IdProductoEnVenta": "PV00000234",
+       "FechaPedido": "16/05/2021",
+       "Cantidad":  6},
+        {
+       "IdProductoEnVenta": "PV00000178",
+       "FechaPedido": "16/05/2021",
+       "Cantidad":  6},
+        {
+       "IdProductoEnVenta": "PV00000012",
+       "FechaPedido": "16/05/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000267",
+       "FechaPedido": "16/05/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000126",
+       "FechaPedido": "16/05/2021",
+       "Cantidad":  10}]},{
+    
+        "IdCanasta": "CA00000034",
+    "IdCliente": "000000022C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "16/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000233",
+       "FechaPedido": "16/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000178",
+       "FechaPedido": "16/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000012",
+       "FechaPedido": "16/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000267",
+       "FechaPedido": "16/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000126",
+       "FechaPedido": "16/06/2021",
+       "Cantidad":  8}]},
+{
+    
+        "IdCanasta": "CA00000035",
+    "IdCliente": "000000022C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "16/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000233",
+       "FechaPedido": "16/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000178",
+       "FechaPedido": "16/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000012",
+       "FechaPedido": "16/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000267",
+       "FechaPedido": "16/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000126",
+       "FechaPedido": "16/07/2021",
+       "Cantidad":  8}]},
+{
+    
+        "IdCanasta": "CA00000037",
+    "IdCliente": "000000022C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000233",
+       "FechaPedido": "29/07/2021",
+       "Cantidad":  10}]},{
+    
+        "IdCanasta": "CA00000038",
+    "IdCliente": "000000024C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000145",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000056",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000019",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000077",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000187",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  8}]},
+       {
+        
+        "IdCanasta": "CA00000039",
+    "IdCliente": "000000024C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000145",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000056",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000019",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000077",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000187",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  8}]},
+{
+    
+        "IdCanasta": "CA00000040",
+    "IdCliente": "000000024C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000145",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  8},
+        {
+       "IdProductoEnVenta": "PV00000056",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  8}]},
+{
+    
+     "IdCanasta": "CA00000041",
+    "IdCliente": "000000026C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000037",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000167",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000020",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000154",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000087",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000190",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5}]},
+
+
+{
+    
+        "IdCanasta": "CA00000042",
+    "IdCliente": "000000026C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000037",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000167",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000020",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000154",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000087",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000190",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000043",
+    "IdCliente": "000000026C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000167",
+       "FechaPedido": "28/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000020",
+       "FechaPedido": "26/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000154",
+       "FechaPedido": "26/07/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000087",
+       "FechaPedido": "26/07/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000044",
+    "IdCliente": "000000028C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[  
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000120",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000280",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000045",
+    "IdCliente": "000000028C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[  
+        {
+       "IdProductoEnVenta": "PV00000065",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000076",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000120",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000280",
+       "FechaPedido": "06/05/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000046",
+    "IdCliente": "000000028C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000076",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000120",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  10},
+        {
+       "IdProductoEnVenta": "PV00000280",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000047",
+    "IdCliente": "000000030C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[  
+        {
+       "IdProductoEnVenta": "PV00000255",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000176",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000180",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000080",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000048",
+    "IdCliente": "000000030C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[   
+        {
+       "IdProductoEnVenta": "PV00000176",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000180",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000080",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000049",
+    "IdCliente": "000000031C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000023",
+       "FechaPedido": "04/04/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000024",
+       "FechaPedido": "04/04/2021",
+       "Cantidad":  3},
+        {
+       "IdProductoEnVenta": "PV00000025",
+       "FechaPedido": "04/04/2021",
+       "Cantidad":  3}]},{
+    
+        "IdCanasta": "CA00000051",
+    "IdCliente": "000000033C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000123",
+       "FechaPedido": "04/04/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000134",
+       "FechaPedido": "04/04/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000052",
+    "IdCliente": "000000033C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000143",
+       "FechaPedido": "04/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000144",
+       "FechaPedido": "04/07/2021",
+       "Cantidad":  2}]},
+{
+    
+        "IdCanasta": "CA00000053",
+    "IdCliente": "000000035C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000045",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000067",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000167",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000128",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000133",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000191",
+        "FechaPedido": "27/07/2021",
+       "Cantidad":  2}]},{
+    
+        "IdCanasta": "CA00000054",
+    "IdCliente": "000000037C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[ 
+        {
+       "IdProductoEnVenta": "PV00000255",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000176",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000180",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000080",
+       "FechaPedido": "06/06/2021",
+       "Cantidad":  3}]},
+{
+    
+        "IdCanasta": "CA00000055",
+    "IdCliente": "000000037C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000245",
+       "FechaPedido": "09/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000126",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000183",
+       "FechaPedido": "09/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000084",
+       "FechaPedido": "09/07/2021",
+       "Cantidad":  1}]},{
+    
+        "IdCanasta": "CA00000056",
+    "IdCliente": "000000039C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000245",
+       "FechaPedido": "09/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000126",
+       "FechaPedido": "06/07/2021",
+       "Cantidad":  2},
+        {
+       "IdProductoEnVenta": "PV00000183",
+       "FechaPedido": "09/07/2021",
+       "Cantidad":  1},
+        {
+       "IdProductoEnVenta": "PV00000084",
+       "FechaPedido": "09/07/2021",
+       "Cantidad":  1}]},
+       {
+        
+        "IdCanasta": "CA00000059",
+    "IdCliente": "000000041C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000076",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000085",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000086",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000092",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000078",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000080",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000093",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000060",
+    "IdCliente": "000000041C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000076",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000085",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000086",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000092",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5},
+        {
+       "IdProductoEnVenta": "PV00000078",
+       "FechaPedido": "07/06/2021",
+       "Cantidad":  5}]},
+{
+    
+        "IdCanasta": "CA00000061",
+    "IdCliente": "000000042C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000076",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000085",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000086",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000092",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000078",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000080",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000093",
+       "FechaPedido": "07/07/2021",
+       "Cantidad":  7}]},
+{
+    
+        "IdCanasta": "CA00000062",
+    "IdCliente": "000000042C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+        {
+       "IdProductoEnVenta": "PV00000055",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000076",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000085",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000086",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  7},
+        {
+       "IdProductoEnVenta": "PV00000092",
+       "FechaPedido": "27/07/2021",
+       "Cantidad":  7}]
+},
+{
+    "IdCanasta": "CA00000063",
+    "IdCliente": "000000044C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+    
+    {
+        "IdProductoEnVenta": "PV00000028",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000086",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000165",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000286",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000192",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":5}]},
+
+{
+    "IdCanasta": "CA00000064",
+    "IdCliente": "000000044C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+    
+    {
+        "IdProductoEnVenta": "PV00000028",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000086",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000165",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000286",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000192",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":5}]},
+
+{
+    "IdCanasta": "CA00000065",
+    "IdCliente": "000000044C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+ 
+    {
+        "IdProductoEnVenta": "PV00000228",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000186",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000069",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000316",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000112",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":5}]},
+
+{
+    "IdCanasta": "CA00000066",
+    "IdCliente": "000000044C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+ 
+    {
+        "IdProductoEnVenta": "PV00000229",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000186",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000065",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000316",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000118",
+        "FechaPedido": "27/06/2021",
+        "Cantidad":5}]},
+
+{
+    "IdCanasta": "CA00000067",
+    "IdCliente": "000000046C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+ 
+    {
+        "IdProductoEnVenta": "PV00000129",
+        "FechaPedido": "28/06/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000156",
+        "FechaPedido": "28/06/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000075",
+        "FechaPedido": "28/06/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000116",
+        "FechaPedido": "28/06/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000218",
+        "FechaPedido": "28/06/2021",
+        "Cantidad":10}]},
+
+{
+    "IdCanasta": "CA00000068",
+    "IdCliente": "000000046C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+ 
+    {
+        "IdProductoEnVenta": "PV00000129",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000156",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000075",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000116",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000218",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":8}]},
+
+{
+    "IdCanasta": "CA00000069",
+    "IdCliente": "000000047C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000029",
+        "FechaPedido": "20/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000056",
+        "FechaPedido": "20/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000076",
+        "FechaPedido": "20/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000117",
+        "FechaPedido": "20/06/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000118",
+        "FechaPedido": "20/06/2021",
+        "Cantidad":10}]},
+
+{
+    "IdCanasta": "CA00000070",
+    "IdCliente": "000000047C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000029",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000056",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000076",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000117",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000118",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000135",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000129",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000111",
+        "FechaPedido": "20/07/2021",
+        "Cantidad":10}]},
+
+{
+    "IdCanasta": "CA00000072",
+    "IdCliente": "000000047C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000135",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000129",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000111",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":8}]},
+
+{
+    "IdCanasta": "CA00000073",
+    "IdCliente": "000000048C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000136",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000134",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000167",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000198",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000014",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":10},
+            
+    {
+        "IdProductoEnVenta": "PV00000271",
+        "FechaPedido": "28/07/2021",
+        "Cantidad":5}]},
+        {
+            "IdCanasta": "CA00000074",
+            "IdCliente": "000000050C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000028",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000156",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000176",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000217",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000218",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000235",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10}]},
+        
+        {
+            "IdCanasta": "CA00000075",
+            "IdCliente": "000000050C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000128",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000256",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000076",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000017",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000118",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000035",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10}]},
+        
+        {
+            "IdCanasta": "CA00000076",
+            "IdCliente": "000000050C",
+            "EstadoCanasta": "LLENANDO",
+            "Pedido":[
+           
+            {
+                "IdProductoEnVenta": "PV00000128",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000256",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000076",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":10},
+                    
+            {
+                "IdProductoEnVenta": "PV00000017",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000118",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000035",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5}]},
+        
+        {
+            "IdCanasta": "CA00000077",
+            "IdCliente": "000000052C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000246",
+                "FechaPedido": "21/05/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000176",
+                "FechaPedido": "21/05/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000117",
+                "FechaPedido": "21/05/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000218",
+                "FechaPedido": "21/05/2021",
+                "Cantidad":1}]},
+        
+        {
+            "IdCanasta": "CA00000078",
+            "IdCliente": "000000052C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000246",
+                "FechaPedido": "22/05/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000176",
+                "FechaPedido": "22/05/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000117",
+                "FechaPedido": "22/05/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000218",
+                "FechaPedido": "22/05/2021",
+                "Cantidad":1}]},
+        
+        {
+            "IdCanasta": "CA00000079",
+            "IdCliente": "000000054C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000046",
+                "FechaPedido": "21/06/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000076",
+                "FechaPedido": "21/06/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000123",
+                "FechaPedido": "21/06/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000215",
+                "FechaPedido": "21/06/2021",
+                "Cantidad":1}]},
+        
+        {
+            "IdCanasta": "CA00000085",
+            "IdCliente": "000000054C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000046",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000076",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000123",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000215",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":1}]},
+        
+        {
+            "IdCanasta": "CA00000086",
+            "IdCliente": "000000054C",
+            "EstadoCanasta": "LLENANDO",
+            "Pedido":[
+            
+            {
+                "IdProductoEnVenta": "PV00000046",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000076",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000123",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000215",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":1},
+                    
+            {
+                "IdProductoEnVenta": "PV00000006",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000176",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000143",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000004",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":2}]},
+        
+        {
+            "IdCanasta": "CA00000087",
+            "IdCliente": "000000056C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000246",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000301",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":2},
+                    
+            {
+                "IdProductoEnVenta": "PV00000302",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":3},
+                    
+            {
+                "IdProductoEnVenta": "PV00000307",
+                "FechaPedido": "12/07/2021",
+                "Cantidad":1}]},
+                {
+"IdCanasta": "CA00000088",
+"IdCliente": "000000056C",
+"EstadoCanasta": "LLENANDO",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000046",
+"FechaPedido": "29/07/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000303",
+"FechaPedido": "29/07/2021",
+"Cantidad":1},
+    
+{
+"IdProductoEnVenta": "PV00000313",
+"FechaPedido": "29/07/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000203",
+"FechaPedido": "29/07/2021",
+"Cantidad":5}]},
+
+{
+"IdCanasta": "CA00000089",
+"IdCliente": "000000058C",
+"EstadoCanasta": "COMPRADA",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000256",
+"FechaPedido": "16/05/2021",
+"Cantidad":3},
+    
+{
+"IdProductoEnVenta": "PV00000001",
+"FechaPedido": "16/05/2021",
+"Cantidad":4},
+    
+{
+"IdProductoEnVenta": "PV00000002",
+"FechaPedido": "16/05/2021",
+"Cantidad":4},
+    
+{
+"IdProductoEnVenta": "PV00000017",
+"FechaPedido": "16/05/2021",
+"Cantidad":1}]},
+
+{
+"IdCanasta": "CA00000090",
+"IdCliente": "000000058C",
+"EstadoCanasta": "FACTURANDO",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000056",
+"FechaPedido": "16/07/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000015",
+"FechaPedido": "16/07/2021",
+"Cantidad":4},
+    
+{
+"IdProductoEnVenta": "PV00000016",
+"FechaPedido": "16/07/2021",
+"Cantidad":4},
+    
+{
+"IdProductoEnVenta": "PV00000215",
+"FechaPedido": "16/07/2021",
+"Cantidad":2}]},
+
+{
+"IdCanasta": "CA00000091",
+"IdCliente": "000000060C",
+"EstadoCanasta": "COMPRADA",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000036",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000315",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000022",
+"FechaPedido": "13/06/2021",
+"Cantidad":1},
+    
+{
+"IdProductoEnVenta": "PV00000122",
+"FechaPedido": "13/06/2021",
+"Cantidad":1}]},
+
+{
+"IdCanasta": "CA00000092",
+"IdCliente": "000000060C",
+"EstadoCanasta": "FACTURANDO",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000046",
+"FechaPedido": "19/07/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000017",
+"FechaPedido": "19/07/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000119",
+"FechaPedido": "19/07/2021",
+"Cantidad":1},
+    
+{
+"IdProductoEnVenta": "PV00000217",
+"FechaPedido": "19/07/2021",
+"Cantidad":1}]},
+
+{
+"IdCanasta": "CA00000095",
+"IdCliente": "000000061C",
+"EstadoCanasta": "COMPRADA",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000036",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000315",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000022",
+"FechaPedido": "13/06/2021",
+"Cantidad":1},
+    
+{
+"IdProductoEnVenta": "PV00000122",
+"FechaPedido": "13/06/2021",
+"Cantidad":1}]},
+
+{
+"IdCanasta": "CA00000096",
+"IdCliente": "000000061C",
+"EstadoCanasta": "LLENANDO",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000037",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000316",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000023",
+"FechaPedido": "13/06/2021",
+"Cantidad":2},
+    
+{
+"IdProductoEnVenta": "PV00000124",
+"FechaPedido": "13/06/2021",
+"Cantidad":2}]},
+
+{
+"IdCanasta": "CA00000097",
+"IdCliente": "000000063C",
+"EstadoCanasta": "COMPRADA",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000236",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000215",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000222",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000122",
+"FechaPedido": "13/06/2021",
+"Cantidad":8}]},
+     
+
+{
+"IdCanasta": "CA00000098",
+"IdCliente": "000000063C",
+"EstadoCanasta": "LLENANDO",
+"Pedido":[
+{
+"IdProductoEnVenta": "PV00000236",
+"FechaPedido": "25/07/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000215",
+"FechaPedido": "22/07/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000222",
+"FechaPedido": "25/07/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000122",
+"FechaPedido": "25/07/2021",
+"Cantidad":8},
+    
+{
+"IdProductoEnVenta": "PV00000037",
+"FechaPedido": "23/07/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000316",
+"FechaPedido": "25/07/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000023",
+"FechaPedido": "25/07/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000124",
+"FechaPedido": "25/07/2021",
+"Cantidad":5}]},
+
+{
+"IdCanasta": "CA00000099",
+"IdCliente": "000000065C",
+"EstadoCanasta": "COMPRADA",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000036",
+"FechaPedido": "12/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000015",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000111",
+"FechaPedido": "10/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000222",
+"FechaPedido": "11/06/2021",
+"Cantidad":8}]},
+
+{
+"IdCanasta": "CA00000100",
+"IdCliente": "000000065C",
+"EstadoCanasta": "LLENANDO",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000236",
+"FechaPedido": "26/07/2021",
+"Cantidad":8},
+    
+{
+"IdProductoEnVenta": "PV00000043",
+"FechaPedido": "26/07/2021",
+"Cantidad":8},
+    
+{
+"IdProductoEnVenta": "PV00000051",
+"FechaPedido": "27/07/2021",
+"Cantidad":8},
+    
+{
+"IdProductoEnVenta": "PV00000052",
+"FechaPedido": "27/07/2021",
+"Cantidad":8}]},
+
+{
+"IdCanasta": "CA00000108",
+"IdCliente": "000000066C",
+"EstadoCanasta": "COMPRADA",
+"Pedido":[
+
+{
+"IdProductoEnVenta": "PV00000036",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000215",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000102",
+"FechaPedido": "13/06/2021",
+"Cantidad":5},
+    
+{
+"IdProductoEnVenta": "PV00000107",
+"FechaPedido": "13/06/2021",
+"Cantidad":8},
+    
+{
+"IdProductoEnVenta": "PV00000108",
+"FechaPedido": "13/06/2021",
+"Cantidad":8},
+    
+{
+"IdProductoEnVenta": "PV00000109",
+"FechaPedido": "13/06/2021",
+"Cantidad":8}]},
+
+{
+    "IdCanasta": "CA00000088",
+    "IdCliente": "000000056C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000046",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000303",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":1},
+            
+    {
+        "IdProductoEnVenta": "PV00000313",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000203",
+        "FechaPedido": "29/07/2021",
+        "Cantidad":5}]},
+
+{
+    "IdCanasta": "CA00000089",
+    "IdCliente": "000000058C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000256",
+        "FechaPedido": "16/05/2021",
+        "Cantidad":3},
+            
+    {
+        "IdProductoEnVenta": "PV00000001",
+        "FechaPedido": "16/05/2021",
+        "Cantidad":4},
+            
+    {
+        "IdProductoEnVenta": "PV00000002",
+        "FechaPedido": "16/05/2021",
+        "Cantidad":4},
+            
+    {
+        "IdProductoEnVenta": "PV00000017",
+        "FechaPedido": "16/05/2021",
+        "Cantidad":1}]},
+
+{
+    "IdCanasta": "CA00000090",
+    "IdCliente": "000000058C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000056",
+        "FechaPedido": "16/07/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000015",
+        "FechaPedido": "16/07/2021",
+        "Cantidad":4},
+            
+    {
+        "IdProductoEnVenta": "PV00000016",
+        "FechaPedido": "16/07/2021",
+        "Cantidad":4},
+            
+    {
+        "IdProductoEnVenta": "PV00000215",
+        "FechaPedido": "16/07/2021",
+        "Cantidad":2}]},
+
+{
+    "IdCanasta": "CA00000091",
+    "IdCliente": "000000060C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000036",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000315",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000022",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":1},
+            
+    {
+        "IdProductoEnVenta": "PV00000122",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":1}]},
+
+{
+    "IdCanasta": "CA00000092",
+    "IdCliente": "000000060C",
+    "EstadoCanasta": "FACTURANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000046",
+        "FechaPedido": "19/07/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000017",
+        "FechaPedido": "19/07/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000119",
+        "FechaPedido": "19/07/2021",
+        "Cantidad":1},
+            
+    {
+        "IdProductoEnVenta": "PV00000217",
+        "FechaPedido": "19/07/2021",
+        "Cantidad":1}]},
+
+{
+    "IdCanasta": "CA00000095",
+    "IdCliente": "000000061C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000036",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000315",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000022",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":1},
+            
+    {
+        "IdProductoEnVenta": "PV00000122",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":1}]},
+
+{
+    "IdCanasta": "CA00000096",
+    "IdCliente": "000000061C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000037",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000316",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000023",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2},
+            
+    {
+        "IdProductoEnVenta": "PV00000124",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":2}]},
+
+{
+    "IdCanasta": "CA00000097",
+    "IdCliente": "000000063C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000236",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000215",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000222",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000122",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":8}]},
+             
+
+{
+    "IdCanasta": "CA00000098",
+    "IdCliente": "000000063C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+    {
+        "IdProductoEnVenta": "PV00000236",
+        "FechaPedido": "25/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000215",
+        "FechaPedido": "22/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000222",
+        "FechaPedido": "25/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000122",
+        "FechaPedido": "25/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000037",
+        "FechaPedido": "23/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000316",
+        "FechaPedido": "25/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000023",
+        "FechaPedido": "25/07/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000124",
+        "FechaPedido": "25/07/2021",
+        "Cantidad":5}]},
+
+{
+    "IdCanasta": "CA00000099",
+    "IdCliente": "000000065C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000036",
+        "FechaPedido": "12/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000015",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000111",
+        "FechaPedido": "10/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000222",
+        "FechaPedido": "11/06/2021",
+        "Cantidad":8}]},
+
+{
+    "IdCanasta": "CA00000100",
+    "IdCliente": "000000065C",
+    "EstadoCanasta": "LLENANDO",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000236",
+        "FechaPedido": "26/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000043",
+        "FechaPedido": "26/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000051",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000052",
+        "FechaPedido": "27/07/2021",
+        "Cantidad":8}]},
+
+{
+    "IdCanasta": "CA00000108",
+    "IdCliente": "000000066C",
+    "EstadoCanasta": "COMPRADA",
+    "Pedido":[
+
+    {
+        "IdProductoEnVenta": "PV00000036",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000215",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000102",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":5},
+            
+    {
+        "IdProductoEnVenta": "PV00000107",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000108",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":8},
+            
+    {
+        "IdProductoEnVenta": "PV00000109",
+        "FechaPedido": "13/06/2021",
+        "Cantidad":8}]},
+
+        {
+            "IdCanasta": "CA00000109",
+            "IdCliente": "000000066C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000036",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000215",
+                "FechaPedido": "03/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000102",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000107",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000108",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000109",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8}]},
+        
+        {
+            "IdCanasta": "CA00000110",
+            "IdCliente": "000000066C",
+            "EstadoCanasta": "FACTURANDO",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000036",
+                "FechaPedido": "25/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000215",
+                "FechaPedido": "25/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000108",
+                "FechaPedido": "27/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000109",
+                "FechaPedido": "28/07/2021",
+                "Cantidad":8}]},
+        
+        {
+            "IdCanasta": "CA00000111",
+            "IdCliente": "000000068C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000236",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000217",
+                "FechaPedido": "03/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000122",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000137",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000148",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000159",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8}]},
+        
+        {
+            "IdCanasta": "CA00000112",
+            "IdCliente": "000000068C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000236",
+                "FechaPedido": "20/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000217",
+                "FechaPedido": "23/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000132",
+                "FechaPedido": "21/07/2021",
+                "Cantidad":5},
+                    
+            {
+                "IdProductoEnVenta": "PV00000137",
+                "FechaPedido": "21/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000158",
+                "FechaPedido": "21/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000169",
+                "FechaPedido": "21/07/2021",
+                "Cantidad":8}]},
+        
+        {
+            "IdCanasta": "CA00000113",
+            "IdCliente": "000000070C",
+            "EstadoCanasta": "COMPRADA",
+            "Pedido":[
+        
+            {
+                "IdProductoEnVenta": "PV00000038",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000117",
+                "FechaPedido": "03/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000123",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000147",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8},
+                    
+            {
+                "IdProductoEnVenta": "PV00000158",
+                "FechaPedido": "01/07/2021",
+                "Cantidad":8}]},
+                {
+                    "IdCanasta": "CA00000114",
+                    "IdCliente": "000000070C",
+                    "EstadoCanasta": "COMPRADA",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000038",
+                        "FechaPedido": "25/07/2021",
+                        "Cantidad":8},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000117",
+                        "FechaPedido": "25/07/2021",
+                        "Cantidad":8},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000123",
+                        "FechaPedido": "25/07/2021",
+                        "Cantidad":8},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000147",
+                        "FechaPedido": "25/07/2021",
+                        "Cantidad":8},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000158",
+                        "FechaPedido": "25/07/2021",
+                        "Cantidad":8}]},
+                
+                {
+                    "IdCanasta": "CA00000117",
+                    "IdCliente": "000000071C",
+                    "EstadoCanasta": "COMPRADA",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000138",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000227",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000125",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000145",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000058",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5}]},
+                              
+                
+                {
+                    "IdCanasta": "CA00000118",
+                    "IdCliente": "000000071C",
+                    "EstadoCanasta": "FACTURANDO",
+                    "Pedido":[
+                    {
+                        "IdProductoEnVenta": "PV00000138",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000227",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":10},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000145",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":10},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000058",
+                        "FechaPedido": "10/07/2021",
+                        "Cantidad":5}]},
+                {
+                    "IdCanasta": "CA00000121",
+                    "IdCliente": "000000073C",
+                    "EstadoCanasta": "COMPRADA",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000038",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000027",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000223",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":1},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000147",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000058",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":3}]},
+                
+                {
+                    "IdCanasta": "CA00000122",
+                    "IdCliente": "000000073C",
+                    "EstadoCanasta": "LLENANDO",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000038",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000027",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000223",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":1},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000147",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000058",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":3}]},
+                
+                {
+                    "IdCanasta": "CA00000125",
+                    "IdCliente": "000000075C",
+                    "EstadoCanasta": "COMPRADA",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000028",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000047",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000123",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":1},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000187",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000068",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":3}]},
+                             
+                
+                {
+                    "IdCanasta": "CA00000126",
+                    "IdCliente": "000000075C",
+                    "EstadoCanasta": "LLENANDO",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000038",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000067",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":2},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000243",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":1}]},
+                
+                {
+                    "IdCanasta": "CA00000127",
+                    "IdCliente": "000000077C",
+                    "EstadoCanasta": "COMPRADA",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000128",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000319",
+                        "FechaPedido": "29/06/2021",
+                        "Cantidad":3}]},
+                
+                {
+                    "IdCanasta": "CA00000128",
+                    "IdCliente": "000000077C",
+                    "EstadoCanasta": "LLENANDO",
+                    "Pedido":[
+                
+                    {
+                        "IdProductoEnVenta": "PV00000128",
+                        "FechaPedido": "29/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000319",
+                        "FechaPedido": "29/07/2021",
+                        "Cantidad":3},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000138",
+                        "FechaPedido": "29/07/2021",
+                        "Cantidad":5},
+                            
+                    {
+                        "IdProductoEnVenta": "PV00000309",
+                        "FechaPedido": "29/07/2021",
+                        "Cantidad":3}]},
+
+
+
+
+                        {
+                            "IdCanasta": "CA00000132",
+                            "IdCliente": "000000079C",
+                            "EstadoCanasta": "COMPRADA",
+                            "Pedido":[
+                        
+                            {
+                                "IdProductoEnVenta": "PV00000028",
+                                "FechaPedido": "29/06/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000019",
+                                "FechaPedido": "29/06/2021",
+                                "Cantidad":1},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000229",
+                                "FechaPedido": "29/06/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000119",
+                                "FechaPedido": "29/06/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000048",
+                                "FechaPedido": "29/06/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000079",
+                                "FechaPedido": "29/06/2021",
+                                "Cantidad":3}]},
+                                     
+                        
+                        {
+                            "IdCanasta": "CA00000133",
+                            "IdCliente": "000000079C",
+                            "EstadoCanasta": "LLENANDO",
+                            "Pedido":[
+                         
+                            {
+                                "IdProductoEnVenta": "PV00000119",
+                                "FechaPedido": "29/07/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000048",
+                                "FechaPedido": "29/07/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000079",
+                                "FechaPedido": "29/07/2021",
+                                "Cantidad":3}]},
+                        
+                        {
+                            "IdCanasta": "CA00000134",
+                            "IdCliente": "000000080C",
+                            "EstadoCanasta": "COMPRADA",
+                            "Pedido":[
+                         
+                            {
+                                "IdProductoEnVenta": "PV00000018",
+                                "FechaPedido": "28/06/2021",
+                                "Cantidad":2},
+                                    
+                            {
+                                "IdProductoEnVenta": "PV00000067",
+                                "FechaPedido": "28/06/2021",
+                                "Cantidad":3}]}
+
+
+
+    
+    
+    ]
+    

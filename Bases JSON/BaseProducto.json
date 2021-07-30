@@ -1,0 +1,929 @@
+"Producto":{
+        "IdProducto": "P00000001P",
+            "NombreProducto": "Plátano Verde",
+            "Categoria": {
+                "NombreCategoria":"Frutas",
+                "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000002P",
+        "NombreProducto": "Plátano Maduro",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000003P",
+        "NombreProducto": "Plátano Pinton",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000004P",
+        "NombreProducto": "Maracuyá",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000005P",
+        "NombreProducto": "Tomate de Arbol",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000006P",
+        "NombreProducto": "Manzana",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000007P",
+        "NombreProducto": "Peras",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000008P",
+        "NombreProducto": "Banano",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000009P",
+        "NombreProducto": "Uva",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000010P",
+        "NombreProducto": "Uva Verde",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000011P",
+        "NombreProducto": "Fresa",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000012P",
+        "NombreProducto": "Guanabana",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000013P",
+        "NombreProducto": "Piña",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000014P",
+        "NombreProducto": "Mango",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000015P",
+        "NombreProducto": "Durazno",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000016P",
+        "NombreProducto": "Durazno",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000017P",
+        "NombreProducto": "Pitaya",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000018P",
+        "NombreProducto": "Papaya",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000019P",
+        "NombreProducto": "Aguacate",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000020P",
+        "NombreProducto": "Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000021P",
+        "NombreProducto": "Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000022P",
+        "NombreProducto": "Naranja",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000023P",
+        "NombreProducto": "Limon",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000024P",
+        "NombreProducto": "Mandarina",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000025P",
+        "NombreProducto": "Coco",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
+},
+
+
+
+"Producto":{
+        "IdProducto": "P00000026P",
+        "NombreProducto": "Espinaca",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000027P",
+        "NombreProducto": "Cebolla Larga",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000028P",
+        "NombreProducto": "Col China",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000029P",
+        "NombreProducto": "Repollo Morado",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000030P",
+        "NombreProducto": "Repollo Blanco",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000031P",
+        "NombreProducto": "Calabazas",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000032P",
+        "NombreProducto": "Espárragos",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000033P",
+        "NombreProducto": "Champiñones",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000034P",
+        "NombreProducto": "Ahuyama",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000035P",
+        "NombreProducto": "Zanahoria",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000036P",
+        "NombreProducto": "Pimentón",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000037P",
+        "NombreProducto": "Remolacha",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000038P",
+        "NombreProducto": "Pepino",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000039P",
+        "NombreProducto": "Habichuela",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+"Producto":{
+        "IdProducto": "P00000040P",
+        "NombreProducto": "Cebolla Cabezona",
+        "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000041P",
+        "NombreProducto": "Papa Criolla",
+        "Categoria": {
+            "NombreCategoria":"Tuberculos",
+            "DescripcionCategoria": "Son las Raices de algunas plantas, como las papas, yuca, remolacha"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000042P",
+        "NombreProducto": "Papa",
+        "Categoria": {
+            "NombreCategoria":"Tuberculos",
+            "DescripcionCategoria": "Son las Raices de algunas plantas, como las papas, yuca, remolacha"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000043P",
+        "NombreProducto": "Yuca",
+        "Categoria": {
+            "NombreCategoria":"Tuberculos",
+            "DescripcionCategoria": "Son las Raices de algunas plantas, como las papas, yuca, remolacha"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000044P",
+        "NombreProducto": "Ñame",
+        "Categoria": {
+            "NombreCategoria":"Tuberculos",
+            "DescripcionCategoria": "Son las Raices de algunas plantas, como las papas, yuca, remolacha"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000045P",
+        "NombreProducto": "Jengibre",
+        "Categoria": {
+            "NombreCategoria":"Tuberculos",
+            "DescripcionCategoria": "Son las Raices de algunas plantas, como las papas, yuca, remolacha"
+        }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000046P",
+        "NombreProducto": "Maiz",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000047P",
+        "NombreProducto": "Frijol",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000048P",
+        "NombreProducto": "Lentejas",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000049P",
+        "NombreProducto": "Garbanzos",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000050P",
+        "NombreProducto": "Blanquillos",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000051P",
+        "NombreProducto": "Cebada",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000052P",
+        "NombreProducto": "Arroz",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000053P",
+        "NombreProducto": "Panela",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000054P",
+        "NombreProducto": "Miel",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000055P",
+        "NombreProducto": "Dulce de Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Tuberculos",
+            "DescripcionCategoria": "Son las Raices de algunas plantas, como las papas, yuca, remolacha"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000056P",
+        "NombreProducto": "Arequipe de Café",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000057P",
+        "NombreProducto": "Arequipe de Chocolate",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000058P",
+        "NombreProducto": "Arequipe de Banano",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000059P",
+        "NombreProducto": "Bocadillo de plátano",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000060P",
+        "NombreProducto": "Cocada de plátano",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000061P",
+        "NombreProducto": "ChocoBoom",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000062P",
+        "NombreProducto": "Caja Dorada",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000063P",
+        "NombreProducto": "Caja Santo Aroma",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000064P",
+        "NombreProducto": "Puro Cacao Nibs",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000065P",
+        "NombreProducto": "Leche Clarita",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000066P",
+        "NombreProducto": "Leche Esperanza",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000067P",
+        "NombreProducto": "Leche La Vaca",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000068P",
+        "NombreProducto": "Leche La Lechera",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000069P",
+        "NombreProducto": "Leche Manchitas",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000070P",
+        "NombreProducto": "Yogurt Cristiano",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000071P",
+        "NombreProducto": "Yogurt ElCampy",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000072P",
+        "NombreProducto": "Yogurt QueRiko",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000073P",
+        "NombreProducto": "Yogurt MasMejor",
+        "Categoria": {
+            "NombreCategoria":"Lacteos",
+            "DescripcionCategoria": "Productos derivados de la leche"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000074P",
+        "NombreProducto": "Kumis Veneko",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000075P",
+        "NombreProducto": "Kumis Muu",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000076P",
+        "NombreProducto": "Kumis QuieoKumis",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000077P",
+        "NombreProducto": "Crema de Leche soy",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000078P",
+        "NombreProducto": "Crema de Leche Muu",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000079P",
+        "NombreProducto": "Crema de Leche LasMas",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000080P",
+        "NombreProducto": "Queso Campesino Quisi",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000081P",
+        "NombreProducto": "Queso Campesino UwU",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000082P",
+        "NombreProducto": "Queso Campesino Mas Vaca",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000083P",
+        "NombreProducto": "Queso Consteño",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000084P",
+        "NombreProducto": "Queso Doble Crema Estira",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000085P",
+        "NombreProducto": "Queso Doble Crema Wuw",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000086P",
+        "NombreProducto": "Queso Doble Crema Vaquita",
+        "Categoria": {
+            "NombreCategoria":"Granos",
+            "DescripcionCategoria": "Un grano es una semilla pequeña, dura y seca, con o sin cáscara o capa de fruta adherida"
+        }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000087P",
+        "NombreProducto": "Honolulu Jabón Artesanal",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000088P",
+        "NombreProducto": "Honolulu Exfoliante café",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000089P",
+        "NombreProducto": "Agua Micelar",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000090P",
+        "NombreProducto": "Aceite de Coco",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000091P",
+        "NombreProducto": "Crema Antifósil",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+}, 
+"Producto":{
+        "IdProducto": "P00000092P",
+        "NombreProducto": "Shampoo Dilvage",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000093P",
+        "NombreProducto": "Aceite de Aguacate",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+"Producto":{
+        "IdProducto": "P00000094P",
+        "NombreProducto": "Shampoo de Aguacate",
+        "Categoria": {
+            "NombreCategoria":"Salud y Belleza",
+            "DescripcionCategoria": "Plantas medicinales o productos naturales"
+        }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000095P",
+        "NombreProducto": "Maracuyitos",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000096P",
+        "NombreProducto": "PlatiRicos",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000097P",
+        "NombreProducto": "Marranitas Patachin",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000098P",
+        "NombreProducto": "Aborrajaos Patachin",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000099P",
+        "NombreProducto": "Patachin Toston",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000100P",
+        "NombreProducto": "ChocoRico",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000101P",
+        "NombreProducto": "Tajaditos",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000102P",
+        "NombreProducto": "Pobs",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000103P",
+        "NombreProducto": "Manolito",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000104P",
+        "NombreProducto": "ChocoCofee",
+        "Categoria": {
+        "NombreCategoria":"Procesados",
+        "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
+    }
+},
+
+
+"Producto":{
+        "IdProducto": "P00000105P",
+        "NombreProducto": "Orégano Escama",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000106P",
+        "NombreProducto": "Tomillo",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000107P",
+        "NombreProducto": "Romero",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000108P",
+        "NombreProducto": "Orégano Fresco",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000109P",
+        "NombreProducto": "Guasca",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000110P",
+        "NombreProducto": "Laurel",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000111P",
+        "NombreProducto": "Menta",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000112P",
+        "NombreProducto": "Cilantro",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000113P",
+        "NombreProducto": "Perejil",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},
+"Producto":{
+        "IdProducto": "P00000114P",
+        "NombreProducto": "Ajo",
+        "Categoria": {
+        "NombreCategoria":"Especias",
+        "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
+    }
+},

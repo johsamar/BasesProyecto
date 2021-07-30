@@ -1,0 +1,1185 @@
+[
+    {
+        "IdFactura": "F000000001",
+        "IdCanasta": "CA00000001",
+        "IdCliente": "000000001C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 29500,
+        "Pago":[
+          {
+           "FechaPago":  "21/03/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 29500}]
+     
+     },
+     {
+        "IdFactura": "F000000002",
+        "IdCanasta": "CA00000002",
+        "IdCliente": "000000001C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 12500,
+        "Pago":[
+          {
+           "FechaPago":  "28/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 12500}]
+     },
+     {
+        "IdFactura": "F000000003",
+        "IdCanasta": "CA00000004",
+        "IdCliente": "000000002C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 14100,
+        "Pago":[
+           {
+           "FechaPago": "28/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 14100}]
+     },
+     {
+        "IdFactura": "F000000004",
+        "IdCanasta": "CA00000006",
+        "IdCliente": "000000003C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 14000,
+        "Pago":[
+          {
+           "FechaPago":  "29/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 14000}]
+        
+     },
+     {
+        "IdFactura": "F000000005",
+        "IdCanasta": "CA00000007",
+        "IdCliente": "000000003C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 59500,
+        "Pago":[
+          {
+           "FechaPago":  "29/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 59500}]
+     },
+     {
+        "IdFactura": "F000000006",
+        "IdCanasta": "CA00000008",
+        "IdCliente": "000000004C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 23000,
+        "Pago":[
+          {
+           "FechaPago":  "28/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 23000}]
+     },
+     {
+        "IdFactura": "F000000007",
+        "IdCanasta": "CA00000010",
+        "IdCliente": "000000006C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 27000,
+        "Pago":[
+          {
+           "FechaPago":  "24/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 27000}]
+     },
+     {
+        "IdFactura": "F000000008",
+        "IdCanasta": "CA00000011",
+        "IdCliente": "000000008C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 25500,
+        "Pago":[
+          {
+           "FechaPago":  "25/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 25500}]
+     },
+     {
+        "IdFactura": "F000000009",
+        "IdCanasta": "CA00000013",
+        "IdCliente": "000000010C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 25500,
+        "Pago":[
+          {
+           "FechaPago":  "26/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 25500}]
+     },
+     {
+        "IdFactura": "F000000010",
+        "IdCanasta": "CA00000014",
+        "IdCliente": "000000010C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 35500,
+        "Pago":[
+          {
+           "FechaPago":  "15/04/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 35500}]
+     },
+     {
+        "IdFactura": "F000000011",
+        "IdCanasta": "CA00000019",
+        "IdCliente": "000000015C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 39500,
+        "Pago":[
+          {
+           "FechaPago":  "16/05/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 39500}]
+     },
+     {
+        "IdFactura": "F000000012",
+        "IdCanasta": "CA00000020",
+        "IdCliente": "000000015C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 42000,
+        "Pago":[
+          {
+           "FechaPago":  "16/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 42000}]
+        
+     },
+     {
+        "IdFactura": "F000000013",
+        "IdCanasta": "CA00000021",
+        "IdCliente": "000000015C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 24000,
+        "Pago":[
+          {
+           "FechaPago":  "16/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 24000}]
+     },
+     {
+        "IdFactura": "F000000014",
+        "IdCanasta": "CA00000023",
+        "IdCliente": "000000017C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 22500,
+        "Pago":[
+          {
+           "FechaPago":  "17/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 22500}]
+     },
+     {
+        "IdFactura": "F000000015",
+        "IdCanasta": "CA00000026",
+        "IdCliente": "000000019C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 28000,
+        "Pago":[
+          {
+           "FechaPago":  "20/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 28000}]
+     },
+     {
+        "IdFactura": "F000000016",
+        "IdCanasta": "CA00000027",
+        "IdCliente": "000000019C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 30000,
+        "Pago":[
+          {
+           "FechaPago":  "20/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 30000}]
+     },
+     {
+        "IdFactura": "F000000017",
+        "IdCanasta": "CA00000028",
+        "IdCliente": "000000020C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 31000,
+        "Pago":[
+          {
+           "FechaPago":  "19/04/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 31000}]
+     },
+     {
+        "IdFactura": "F000000018",
+        "IdCanasta": "CA00000029",
+        "IdCliente": "000000020C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 28500,
+        "Pago":[
+          {
+           "FechaPago":  "20/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 28500}]
+     },
+     {
+        "IdFactura": "F000000020",
+        "IdCanasta": "CA00000032",
+        "IdCliente": "000000022C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 171800,
+        "Pago":[
+          {
+           "FechaPago":  "17/04/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 171800}]
+     },
+     {
+        "IdFactura": "F000000062",
+        "IdCanasta": "CA00000125",
+        "IdCliente": "000000075C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 66300,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 300000},
+        {
+           "FechaPago": "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 363000}]
+     },
+     {
+        "IdFactura": "F000000118",
+        "IdCanasta": "CA00000028",
+        "IdCliente": "000000020C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 27500,
+        "Pago":[
+          {
+           "FechaPago":  "20/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 27500}]
+     },
+     {
+        "IdFactura": "F000000019",
+        "IdCanasta": "CA00000032",
+        "IdCliente": "000000022C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 168800,
+        "Pago":[
+          {
+           "FechaPago":  "20/04/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 168800}]
+     },
+     {
+        "IdFactura": "F000000021",
+        "IdCanasta": "CA00000034",
+        "IdCliente": "000000022C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 200800,
+        "Pago":[
+          {
+           "FechaPago":  "17/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 200800}]
+     },
+     {
+        "IdFactura": "F000000022",
+        "IdCanasta": "CA00000035",
+        "IdCliente": "000000022C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 200800,
+        "Pago":[
+          {
+           "FechaPago":  "20/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 200800}]
+     },
+     {
+        "IdFactura": "F000000023",
+        "IdCanasta": "CA00000038",
+        "IdCliente": "000000024C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 273600,
+        "Pago":[
+          {
+           "FechaPago":  "07/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 273600}]
+     },
+     {
+        "IdFactura": "F000000024",
+        "IdCanasta": "CA00000039",
+        "IdCliente": "000000024C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 273600,
+        "Pago":[
+          {
+           "FechaPago":  "07/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 273600}]
+     },
+     {
+        "IdFactura": "F000000025",
+        "IdCanasta": "CA00000041",
+        "IdCliente": "000000026C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 163500,
+        "Pago":[
+          {
+           "FechaPago":  "08/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 163500}]
+     },
+     {
+        "IdFactura": "F000000026",
+        "IdCanasta": "CA00000042",
+        "IdCliente": "000000026C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 163500,
+        "Pago":[
+          {
+           "FechaPago":  "08/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 163500}]
+     },
+     {
+        "IdFactura": "F000000027",
+        "IdCanasta": "CA00000044",
+        "IdCliente": "000000028C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 211000,
+        "Pago":[
+          {
+           "FechaPago":  "10/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 211000}]
+     },
+     {
+        "IdFactura": "F000000028",
+        "IdCanasta": "CA00000045",
+        "IdCliente": "000000028C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 180000,
+        "Pago":[
+          {
+           "FechaPago":  "05/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 180000}]
+     },
+     {
+        "IdFactura": "F000000029",
+        "IdCanasta": "CA00000047",
+        "IdCliente": "000000030C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 81000,
+        "Pago":[
+          {
+           "FechaPago":  "10/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 81000}]
+     },
+     {
+        "IdFactura": "F000000030",
+        "IdCanasta": "CA00000049",
+        "IdCliente": "000000031C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 63000,
+        "Pago":[
+          {
+           "FechaPago":  "05/04/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 63000}]
+     },
+     {
+        "IdFactura": "F000000031",
+        "IdCanasta": "CA00000051",
+        "IdCliente": "000000033C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 15000,
+        "Pago":[
+          {
+           "FechaPago":  "06/04/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 15000}]
+     },
+     {
+        "IdFactura": "F000000032",
+        "IdCanasta": "CA00000054",
+        "IdCliente": "000000037C",
+        "CostoEnvio": 5000,
+        "TotalAPagar": 32000,
+        "Pago":[
+          {
+           "FechaPago":  "06/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 32000}]
+     },
+     {
+        "IdFactura": "F000000033",
+        "IdCanasta": "CA00000059",
+        "IdCliente": "000000041C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 265000,
+        "Pago":[
+          {
+           "FechaPago":  "08/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 265000}]
+     },
+     {
+        "IdFactura": "F000000133",
+        "IdCanasta": "CA00000061",
+        "IdCliente": "000000042C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 371000,
+        "Pago":[
+          {
+           "FechaPago":  "07/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 300000},
+        {
+           "FechaPago": "10/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 71000}]
+     },
+     {
+        "IdFactura": "F000000034",
+        "IdCanasta": "CA00000063",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 139000,
+        "Pago":[
+          {
+           "FechaPago":  "27/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 139000}]
+     },
+     {
+        "IdFactura": "F000000035",
+        "IdCanasta": "CA00000064",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 139000,
+        "Pago":[
+          {
+           "FechaPago":  "28/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 139000}]
+     },
+     {
+        "IdFactura": "F000000036",
+        "IdCanasta": "CA00000065",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 78000,
+        "Pago":[
+          {
+           "FechaPago":  "28/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 78000}]
+        },
+     {
+        "IdFactura": "F000000038",
+        "IdCanasta": "CA00000066",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 78000,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 78000}]
+     },
+     
+     {
+        "IdFactura": "F000000039",
+        "IdCanasta": "CA00000066",
+        "IdCliente": "000000046C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 294500,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 294500}]
+     },
+     {
+        "IdFactura": "F000000040",
+        "IdCanasta": "CA00000069",
+        "IdCliente": "000000047C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 131500,
+        "Pago":[
+          {
+           "FechaPago":  "25/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 131500}]
+     },
+     {
+        "IdFactura": "F000000041",
+        "IdCanasta": "CA00000070",
+        "IdCliente": "000000047C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 241000,
+        "Pago":[
+          {
+           "FechaPago":  "21/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 241000}]
+     },
+     {
+        "IdFactura": "F000000042",
+        "IdCanasta": "CA00000074",
+        "IdCliente": "000000050C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 151500,
+        "Pago":[
+          {
+           "FechaPago":  "22/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 151500}]
+     },
+     {
+        "IdFactura": "F000000043",
+        "IdCanasta": "CA00000075",
+        "IdCliente": "000000050C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 146500,
+        "Pago":[
+          {
+           "FechaPago":  "22/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 146500}]
+     },
+     {
+        "IdFactura": "F000000044",
+        "IdCanasta": "CA00000077",
+        "IdCliente": "000000052C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 20500,
+        "Pago":[
+          {
+           "FechaPago":  "22/05/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 20500}]
+     },
+     {
+        "IdFactura": "F000000045",
+        "IdCanasta": "CA00000078",
+        "IdCliente": "000000052C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 24000,
+        "Pago":[
+          {
+           "FechaPago":  "23/05/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 24000}]
+     },
+     {
+        "IdFactura": "F000000046",
+        "IdCanasta": "CA00000079",
+        "IdCliente": "000000054C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 46300,
+        "Pago":[
+          {
+           "FechaPago":  "22/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 46300}]
+     },
+     {
+        "IdFactura": "F000000047",
+        "IdCanasta": "CA00000085",
+        "IdCliente": "000000054C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 46300,
+        "Pago":[
+          {
+           "FechaPago":  "15/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 46300}]
+     },
+     {
+        "IdFactura": "F000000048",
+        "IdCanasta": "CA00000087",
+        "IdCliente": "000000056C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 26000,
+        "Pago":[
+          {
+           "FechaPago":  "13/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 26000}]
+     },
+     {
+        "IdFactura": "F000000049",
+        "IdCanasta": "CA00000089",
+        "IdCliente": "000000058C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 36500,
+        "Pago":[
+          {
+           "FechaPago":  "18/05/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 36500}]
+     },
+     {
+        "IdFactura": "F000000050",
+        "IdCanasta": "CA00000091",
+        "IdCliente": "000000060C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 22500,
+        "Pago":[
+          {
+           "FechaPago":  "10/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 10000},
+        {
+           "FechaPago": "14/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 12500}]
+     },
+     {
+        "IdFactura": "F000000051",
+        "IdCanasta": "CA00000095",
+        "IdCliente": "000000061C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 22500,
+        "Pago":[
+          {
+           "FechaPago":  "15/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 22500}]
+     },
+     {
+        "IdFactura": "F000000052",
+        "IdCanasta": "CA00000097",
+        "IdCliente": "000000063C",
+        "CostoEnvio": 500,
+        "TotalAPagar": 50000,
+        "Pago":[
+          {
+           "FechaPago":  "15/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 50000}]
+     },
+     {
+        "IdFactura": "F000000053",
+        "IdCanasta": "CA00000099",
+        "IdCliente": "000000065C",
+        "CostoEnvio": 500,
+        "TotalAPagar": 91000,
+        "Pago":[
+          {
+           "FechaPago":  "13/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 91000}]
+     },
+     {
+        "IdFactura": "F000000133",
+        "IdCanasta": "CA00000061",
+        "IdCliente": "000000042C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 371000,
+        "Pago":[
+          {
+           "FechaPago":  "07/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 300000},
+        {
+           "FechaPago": "10/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 71000}]
+     },
+     {
+        "IdFactura": "F000000034",
+        "IdCanasta": "CA00000063",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 139000,
+        "Pago":[
+          {
+           "FechaPago":  "27/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 139000}]
+     },
+     {
+        "IdFactura": "F000000035",
+        "IdCanasta": "CA00000064",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 139000,
+        "Pago":[
+          {
+           "FechaPago":  "28/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 139000}]
+     },
+     {
+        "IdFactura": "F000000036",
+        "IdCanasta": "CA00000065",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 78000,
+        "Pago":[
+          {
+           "FechaPago":  "28/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 78000}]
+        },
+     {
+        "IdFactura": "F000000038",
+        "IdCanasta": "CA00000066",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 78000,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 78000}]
+     },
+     
+     {
+        "IdFactura": "F000000039",
+        "IdCanasta": "CA00000066",
+        "IdCliente": "000000046C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 294500,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 294500}]
+     },
+     {
+        "IdFactura": "F000000040",
+        "IdCanasta": "CA00000069",
+        "IdCliente": "000000047C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 131500,
+        "Pago":[
+          {
+           "FechaPago":  "25/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 131500}]
+     },
+     {
+        "IdFactura": "F000000041",
+        "IdCanasta": "CA00000070",
+        "IdCliente": "000000047C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 241000,
+        "Pago":[
+          {
+           "FechaPago":  "21/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 241000}]
+     },
+     {
+        "IdFactura": "F000000042",
+        "IdCanasta": "CA00000074",
+        "IdCliente": "000000050C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 151500,
+        "Pago":[
+          {
+           "FechaPago":  "22/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 151500}]
+     },
+     {
+        "IdFactura": "F000000133",
+        "IdCanasta": "CA00000061",
+        "IdCliente": "000000042C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 371000,
+        "Pago":[
+          {
+           "FechaPago":  "07/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 300000},
+        {
+           "FechaPago": "10/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 71000}]
+     },
+     {
+        "IdFactura": "F000000034",
+        "IdCanasta": "CA00000063",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 139000,
+        "Pago":[
+          {
+           "FechaPago":  "27/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 139000}]
+     },
+     {
+        "IdFactura": "F000000035",
+        "IdCanasta": "CA00000064",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 139000,
+        "Pago":[
+          {
+           "FechaPago":  "28/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 139000}]
+     },
+     {
+        "IdFactura": "F000000036",
+        "IdCanasta": "CA00000065",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 78000,
+        "Pago":[
+          {
+           "FechaPago":  "28/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 78000}]
+     },
+     {
+        "IdFactura": "F000000038",
+        "IdCanasta": "CA00000066",
+        "IdCliente": "000000044C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 78000,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 78000}]
+     },
+     {
+        "IdFactura": "F000000039",
+        "IdCanasta": "CA00000066",
+        "IdCliente": "000000046C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 294500,
+        "Pago":[
+          {
+           "FechaPago":  "29/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 294500}]
+     },
+     {
+        "IdFactura": "F000000040",
+        "IdCanasta": "CA00000069",
+        "IdCliente": "000000047C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 131500,
+        "Pago":[
+          {
+           "FechaPago":  "25/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 131500}]
+     },
+     {
+        "IdFactura": "F000000041",
+        "IdCanasta": "CA00000070",
+        "IdCliente": "000000047C",
+        "CostoEnvio": 1000,
+        "TotalAPagar": 241000,
+        "Pago":[
+          {
+           "FechaPago":  "21/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 241000}]
+     },
+     {
+        "IdFactura": "F000000042",
+        "IdCanasta": "CA00000074",
+        "IdCliente": "000000050C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 151500,
+        "Pago":[
+          {
+           "FechaPago":  "22/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 151500}]
+     },
+     {
+        "IdFactura": "F000000043",
+        "IdCanasta": "CA00000075",
+        "IdCliente": "000000050C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 146500,
+        "Pago":[
+          {
+           "FechaPago":  "22/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 146500}]
+     },
+     {
+        "IdFactura": "F000000044",
+        "IdCanasta": "CA00000077",
+        "IdCliente": "000000052C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 20500,
+        "Pago":[
+          {
+           "FechaPago":  "22/05/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 20500}]
+     },
+     {
+        "IdFactura": "F000000045",
+        "IdCanasta": "CA00000078",
+        "IdCliente": "000000052C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 24000,
+        "Pago":[
+          {
+           "FechaPago":  "23/05/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 24000}]
+     },
+     {
+        "IdFactura": "F000000046",
+        "IdCanasta": "CA00000079",
+        "IdCliente": "000000054C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 46300,
+        "Pago":[
+          {
+           "FechaPago":  "22/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 46300}]
+     },
+     {
+        "IdFactura": "F000000047",
+        "IdCanasta": "CA00000085",
+        "IdCliente": "000000054C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 46300,
+        "Pago":[
+          {
+           "FechaPago":  "15/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 46300}]
+     },
+     {
+        "IdFactura": "F000000048",
+        "IdCanasta": "CA00000087",
+        "IdCliente": "000000056C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 26000,
+        "Pago":[
+          {
+           "FechaPago":  "13/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 26000}]
+     },
+     {
+        "IdFactura": "F000000049",
+        "IdCanasta": "CA00000089",
+        "IdCliente": "000000058C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 36500,
+        "Pago":[
+          {
+           "FechaPago":  "18/05/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 36500}]
+     },
+     {
+        "IdFactura": "F000000050",
+        "IdCanasta": "CA00000091",
+        "IdCliente": "000000060C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 22500,
+        "Pago":[
+          {
+           "FechaPago":  "10/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 10000},
+        {
+           "FechaPago": "14/06/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 12500}]
+     },
+     {
+        "IdFactura": "F000000051",
+        "IdCanasta": "CA00000095",
+        "IdCliente": "000000061C",
+        "CostoEnvio": 0,
+        "TotalAPagar": 22500,
+        "Pago":[
+          {
+           "FechaPago":  "15/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 22500}]
+     },
+     {
+        "IdFactura": "F000000052",
+        "IdCanasta": "CA00000097",
+        "IdCliente": "000000063C",
+        "CostoEnvio": 500,
+        "TotalAPagar": 50000,
+        "Pago":[
+          {
+           "FechaPago":  "15/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 50000}]
+     },
+     {
+        "IdFactura": "F000000053",
+        "IdCanasta": "CA00000099",
+        "IdCliente": "000000065C",
+        "CostoEnvio": 500,
+        "TotalAPagar": 91000,
+        "Pago":[
+          {
+           "FechaPago":  "13/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 91000}]
+     },
+     {
+        "IdFactura": "F000000054",
+        "IdCanasta": "CA00000108",
+        "IdCliente": "000000066C",
+        "CostoEnvio": 1500,
+        "TotalAPagar": 200000,
+        "Pago":[
+          {
+           "FechaPago":  "14/06/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 200000}]
+     },
+     {
+        "IdFactura": "F000000055",
+        "IdCanasta": "CA00000109",
+        "IdCliente": "000000066C",
+        "CostoEnvio": 1500,
+        "TotalAPagar": 200000,
+        "Pago":[
+          {
+           "FechaPago":  "03/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 100000},
+        {
+           "FechaPago": "05/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 100000}]
+     },
+     {
+        "IdFactura": "F000000056",
+        "IdCanasta": "CA00000111",
+        "IdCliente": "000000068C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 114000,
+        "Pago":[
+          {
+           "FechaPago":  "02/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 114000}]
+     },
+     {
+        "IdFactura": "F000000057",
+        "IdCanasta": "CA00000112",
+        "IdCliente": "000000068C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 103000,
+        "Pago":[
+          {
+           "FechaPago":  "03/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 103000}]
+     },
+     {
+        "IdFactura": "F000000058",
+        "IdCanasta": "CA00000113",
+        "IdCliente": "000000070C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 107000,
+        "Pago":[
+          {
+           "FechaPago":  "03/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 107000}]
+     },
+     {
+        "IdFactura": "F000000059",
+        "IdCanasta": "CA00000114",
+        "IdCliente": "000000070C",
+        "CostoEnvio": 3000,
+        "TotalAPagar": 107000,
+        "Pago":[
+          {
+           "FechaPago":  "26/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 107000}]
+     },
+     {
+        "IdFactura": "F000000060",
+        "IdCanasta": "CA00000117",
+        "IdCliente": "000000071C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 99500,
+        "Pago":[
+          {
+           "FechaPago":  "12/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 99500}]
+     },
+     {
+        "IdFactura": "F000000061",
+        "IdCanasta": "CA00000121",
+        "IdCliente": "000000073C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 63300,
+        "Pago":[
+          {
+           "FechaPago":  "03/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 63300}]
+     },
+     {
+        "IdFactura": "F000000063",
+        "IdCanasta": "CA00000127",
+        "IdCliente": "000000077C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 16000,
+        "Pago":[
+          {
+           "FechaPago":  "02/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 16000}]
+     },
+     {
+        "IdFactura": "F000000064",
+        "IdCanasta": "CA00000132",
+        "IdCliente": "000000079C",
+        "CostoEnvio": 4000,
+        "TotalAPagar": 69000,
+        "Pago":[
+          {
+           "FechaPago":  "01/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 30000},
+        {
+           "FechaPago": "05/07/2021",
+           "MetodoPago": "EFECTIVO",
+           "ValorPago": 30000},
+        {
+           "FechaPago": "03/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 9000}]
+     },
+     {
+        "IdFactura": "F000000065",
+        "IdCanasta": "CA00000134",
+        "IdCliente": "000000080C",
+        "CostoEnvio": 2000,
+        "TotalAPagar": 39500,
+        "Pago":[
+          {
+           "FechaPago":  "05/07/2021",
+           "MetodoPago": "TARJETA",
+           "ValorPago": 39500}]
+     }
+    
+]
+        
