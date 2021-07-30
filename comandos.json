@@ -64,13 +64,13 @@
             "Descripcion":"<string>",
             "Fecha":"<date>",
             "Resena":[
-                {
-                    "FechaResena": "<date>",
-                    "Descripcion": "<string>",
-                    "Calificacion": "<string>",
-                    "IdFactura": "<string>",
-                    "IdCliente": "<string>"
-                }
+{
+    "Descripcion": "<string>",
+    "FechaResena": "<date>",
+    "Calificacion": "<string>",
+    "IdFactura": "<string>",
+    "IdCliente": "<string>"
+}
             ]
         }
     },
@@ -130,18 +130,18 @@
             "IdFactura": "string",
             "MomentoEntrega":[
                 {
-                    "FechaMomentoEntrega": "<string>",
                     "UbicacionEntrega": "<string>",
                     "TiempoEstimado": "<string>",
                     "EstadoEntrega": "<string>"
                 }
             ],
-            "Distribuidor":{
-                "NombreDistribuidor": "<string>",
-                "ApellidoDistribuidor": "<string>",
-                "CedulaDistribuidor": "<string>",
-                "TelefonoDistribuidor": "<string>",
-                "CorreoDistribuidor": "<string>"
+            "Distribuidor":
+{
+    "NombreDistribuidor": "<string>",
+    "ApellidoDistribuidor": "<string>",
+    "CedulaDistribuidor": "<string>",
+    "TelefonoDistribuidor": "<string>",
+    "CorreoDistribuidor": "<string>"
             }
         }
     }   

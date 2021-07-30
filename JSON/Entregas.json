@@ -1,0 +1,213 @@
+[
+    {
+       "IdEntrega": "EN00000001",
+       "IdFactura": "F000000001",
+       "Distribuidor":{
+            "NombreDistribuidor":"Marco",
+            "ApellidoDistribuidor": "Polo",
+            "CedulaDistribuidor": "1023674584",
+            "TelefonoDistribuidor": "3256640102",
+            "CorreoDistribuidor": "marco.polo@hotmail.com"
+        },
+       "MomentoEntrega":[
+            {
+                "UbicacionEntrega": "4.640340, -75.576294",
+                "TiempoEstimado":"DOS DIAS",
+                "EstadoEntrega": "DESPACHADO"
+            },
+            {
+                "UbicacionEntrega": "4.648064, -75.570482",
+                "TiempoEstimado":"2 HORAS",
+                "EstadoEntrega": "DISTRIBUCION"
+            },
+            {
+                "UbicacionEntrega": "4.648067, -75.570485",
+                "TiempoEstimado":"0 MINUTOS",
+                "EstadoEntrega": "ENTREGADO"
+            }]
+    },
+    
+    {
+       "IdEntrega": "EN00000002",
+       "IdFactura": "F000000010",
+       "Distribuidor":{
+            "NombreDistribuidor":"André",
+            "ApellidoDistribuidor": "Weiss",
+            "CedulaDistribuidor": "1023674585",
+            "TelefonoDistribuidor": "3256640102",
+            "CorreoDistribuidor": "andré.weiss@hotmail.com"
+        },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "5.100078, -75.950973",
+          "TiempoEstimado":"DOS DIAS",
+          "EstadoEntrega": "PREPARANDO"
+    },
+    {
+          "UbicacionEntrega": "4.640350, -75.586294",
+          "TiempoEstimado":"1 HORAS",
+          "EstadoEntrega": "DISTRIBUCION"
+    }]},
+    
+    {
+       "IdEntrega": "EN00000003",
+       "IdFactura": "F000000011",
+       "Distribuidor":{
+        "NombreDistribuidor":"Fidel",
+        "ApellidoDistribuidor": "Hammil",
+        "CedulaDistribuidor": "1023674586",
+        "TelefonoDistribuidor": "3256640102",
+        "CorreoDistribuidor": "fidel.hammil@hotmail.com"
+    },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "5.101078, -74.950973",
+          "TiempoEstimado":"1 DIA",
+          "EstadoEntrega": "PREPARANDO"
+    },
+    {
+          "UbicacionEntrega": "4.540340, -75.587294",
+          "TiempoEstimado":"6 HORAS",
+          "EstadoEntrega": "DESPACHADO"
+    }]},
+    
+    {
+       "IdEntrega": "EN00000004",
+       "IdFactura": "F000000017",
+       "Distribuidor":{
+        "NombreDistribuidor":"Nathan",
+        "ApellidoDistribuidor": "Gonzalez",
+        "CedulaDistribuidor": "1023674587",
+        "TelefonoDistribuidor": "3256640102",
+        "CorreoDistribuidor": "nathan.gonzalez@hotmail.com"
+    },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "5.201075, -75.960973",
+          "TiempoEstimado":"2 DIAS",
+          "EstadoEntrega": "PREPARANDO"
+    },
+    {
+          "UbicacionEntrega": "4.550340, -76.587294",
+          "TiempoEstimado":"12 HORAS",
+          "EstadoEntrega": "DESPACHADO"
+    },
+    {
+          "UbicacionEntrega": "5.201078, -74.850973",
+          "TiempoEstimado":"3 HORAS",
+          "EstadoEntrega": "DISTRIBICION"
+    },
+    {
+          "UbicacionEntrega": "4.540440, -75.987294",
+          "TiempoEstimado":"0 MINUTOS",
+          "EstadoEntrega": "ENTREGADO"
+    }]},
+    
+    {
+       "IdEntrega": "EN00000005",
+       "IdFactura": "F000000020",
+       "Distribuidor":{
+        "NombreDistribuidor":"Leonel",
+        "ApellidoDistribuidor": "Fernandez",
+        "CedulaDistribuidor": "1023674588",
+        "TelefonoDistribuidor": "3256640102",
+        "CorreoDistribuidor": "leonel.fernandez@hotmail.com"
+    },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "4.650340, -76.596294",
+          "TiempoEstimado":"1 DIAS",
+          "EstadoEntrega": "DESPACHADO"
+    },
+    {
+          "UbicacionEntrega": "4.648704, -75.560482",
+          "TiempoEstimado":"5 HORAS",
+          "EstadoEntrega": "DISTRIBUCION"
+    }]},
+    
+    {
+       "IdEntrega": "EN00000007",
+       "IdFactura": "F000000031",
+       "Distribuidor":{
+        "NombreDistribuidor":"Diego",
+        "ApellidoDistribuidor": "Rios",
+        "CedulaDistribuidor": "1023674591",
+        "TelefonoDistribuidor": "3256640102",
+        "CorreoDistribuidor": "diego.rios@hotmail.com"
+    },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "4.850340, -76.696294",
+          "TiempoEstimado":"1 DIAS",
+          "EstadoEntrega": "DESPACHADO"
+    },
+    {
+          "UbicacionEntrega": "4.548704, -75.360482",
+          "TiempoEstimado":"5 HORAS",
+          "EstadoEntrega": "DISTRIBUCION"
+    },
+    {
+          "UbicacionEntrega": "4.548704, -75.360482",
+          "TiempoEstimado":"0 MINUTOS",
+          "EstadoEntrega": "ENTREGADO"
+    }]},
+    
+    {
+       "IdEntrega": "EN00000009",
+       "IdFactura": "F000000044",
+       "Distribuidor":{
+        "NombreDistribuidor":"Mauricio",
+        "ApellidoDistribuidor": "Cabezas",
+        "CedulaDistribuidor": "1023674592",
+        "TelefonoDistribuidor": "3256640102",
+        "CorreoDistribuidor": "mauricio.cabezas@hotmail.com"
+    },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "4.850340, -76.691294",
+          "TiempoEstimado":"1 DIAS",
+          "EstadoEntrega": "DESPACHADO"
+    },
+    {
+          "UbicacionEntrega": "4.543604, -75.367482",
+          "TiempoEstimado":"7 HORAS",
+          "EstadoEntrega": "DISTRIBUCION"
+    },
+    {
+          "UbicacionEntrega": "5.648704, -75.368482",
+          "TiempoEstimado":"0 MINUTOS",
+          "EstadoEntrega": "ENTREGADO"
+    }]},
+    
+    {
+       "IdEntrega": "EN00000010",
+       "IdFactura": "F000000045",
+       "Distribuidor":{
+            "NombreDistribuidor":"Marco",
+            "ApellidoDistribuidor": "Polo",
+            "CedulaDistribuidor": "1023674584",
+            "TelefonoDistribuidor": "3256640102",
+            "CorreoDistribuidor": "marco.polo@hotmail.com"
+        },
+       "MomentoEntrega":[
+    {
+          "UbicacionEntrega": "4.930340, -74.681294",
+          "TiempoEstimado":"2 DIAS",
+          "EstadoEntrega": "PREPARANDO"
+    },
+    {
+          "UbicacionEntrega": "4.950340, -76.691294",
+          "TiempoEstimado":"1 DIAS",
+          "EstadoEntrega": "DESPACHADO"
+    },
+    {
+          "UbicacionEntrega": "4.673664, -75.367483",
+          "TiempoEstimado":"4 HORAS",
+          "EstadoEntrega": "DISTRIBUCION"
+    },
+    {
+          "UbicacionEntrega": "5.658704, -75.367482",
+          "TiempoEstimado":"0 MINUTOS",
+          "EstadoEntrega": "ENTREGADO"
+    }]}
+    ]

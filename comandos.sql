@@ -194,7 +194,7 @@ CREATE TABLE MomentoEntrega(
 CREATE TABLE Resena(
     IdResena VARCHAR2(10) NOT NULL,
     Descripcion VARCHAR2(10) NOT NULL,
-    Calificacion VARCHAR2(10) NOT NULL,
+    Calificacion NUMBER(10) NOT NULL,
     FechaResena VARCHAR2(10) NOT NULL,
     IdFactura VARCHAR2(10) NOT NULL,
     IdProductoEnVenta VARCHAR2(10) NOT NULL,
@@ -435,26 +435,6 @@ INSERT INTO  Finca VALUES('000000023F','El peroné','RISARALDA','SAN JOSE','La J
 INSERT INTO  Finca VALUES('000000024F','La home','RISARALDA','LA CELIA','Taciturnia','4.861700, -75.250424',15400); 
 INSERT INTO  Finca VALUES('000000025F','El Fasanfurius','RISARALDA','SANTUARIO','Esperanza','4.848764, -75.250482',22000);
 INSERT INTO  Finca VALUES('000000026F','Lasso Peeta','RISARALDA','QUINCHÍA','La Pata','4.848764, -75.250482',99000);
-
---INSERT INTO  Productor VALUES('000000010P','Pedro','Osorio','1625549870','3257769999','pedro.osorio@gmail.com','QUINDÍO','SALENTO','KRA 14 #2-41'); 
---INSERT INTO  Productor VALUES('000000009P','Tadeo','Perez','1525549870','3256769999','tadeo.perez@gmail.com','QUINDÍO','MONTENEGRO','KRA 13 #2-89'); 
-
---INSERT INTO  Productor VALUES('000000011P','Miguel','Chavez','1025549871','3257869999','miguel.chavez@hotmail.com','CALDAS','SAN JOSE','KRA 2 #5-89'); 
---INSERT INTO  Productor VALUES('000000012P','Ricardo','Juarez','1025549872','3256889999','ricardo.juarez@hotmail.com','CALDAS','VITERBO','KRA 16 #8-89'); 
---INSERT INTO  Productor VALUES('000000013P','Cristina','Solano','1025549873','3256899999','cristina.solano@hotmail.com','CALDAS','RISARALDA','KRA 17 #2-89'); 
---INSERT INTO  Productor VALUES('000000014P','Gabriela','Benjumea','1025549874','3256909999','Gabriela.benjumea@hotmail.com','CALDAS','MARULANDA','KRA 18 #2-89'); 
---INSERT INTO  Productor VALUES('000000016P','Rodrigo','Diaz','1025549876','3256929999','rodrigo.diaz@hotmail.com','CALDAS','NEIRA','KRA 20 #2-89'); 
---INSERT INTO  Productor VALUES('000000017P','Danilo','Urie','1025549877','3256939999','danilo.urie@hotmail.com','CALDAS','VITERBO','KRA 21 #2-89'); 
---INSERT INTO  Productor VALUES('000000018P','Gabriel','Ferrer','1025549878','3256949999','gabriel.ferrer@hotmail.com','CALDAS','BELALCAZAR','KRA 22 #2-89'); 
---INSERT INTO  Productor VALUES('000000019P','David','Jimenez','1025549879','3256959999','david.jimenez@hotmail.com','CALDAS','BELALCAZAR','KRA 23 #2-89'); 
---INSERT INTO  Productor VALUES('000000020P','Jhonatan','Torres','1025549880','3256969999','jhonatan.torres@hotmail.com','CALDAS','SAN JOSE','KRA 3 #2-89'); 
-
---INSERT INTO  Productor VALUES('000000021P','Miguel','Chavez','1025549881','3257897999','miguel.chavez@hotmail.com','RISARALDA','APÍA','KRA 15 #5-89'); 
---INSERT INTO  Productor VALUES('000000022P','Ricardo','Juarez','1025549882','3256989999','ricardo.juarez@hotmail.com','RISARALDA','GUÁTICA','KRA 16 #8-89'); 
---INSERT INTO  Productor VALUES('000000023P','Cristina','Solano','1025549883','3256999999','cristina.solano@hotmail.com','RISARALDA','LA CELIA','KRA 17 #2-89'); 
---INSERT INTO  Productor VALUES('000000024P','Gabriela','Benjumea','1025549844','3251009999','Gabriela.benjumea@hotmail.com','RISARALDA','SANTUARIO','KRA 18 #2-89'); 
---INSERT INTO  Productor VALUES('000000025P','Rosalin','Betancourt','1025549885','3256101999','rosalin.betan@hotmail.com','RISARALDA','QUINCHÍA','KRA 19 #2-89');
---INSERT INTO  Productor VALUES('000000026P','Rodrigo','Diaz','1025549886','3256102999','rodrigo.diaz@hotmail.com','RISARALDA','LA VIRGINIA','KRA 20 #2-89'); 
 
 ------------ CERTIFICACION POR FINCA ------------------
 
@@ -2007,10 +1987,10 @@ INSERT INTO MomentoEntrega VALUES('EN00000003','5.101078, -74.950973','1 DIA','P
 INSERT INTO MomentoEntrega VALUES('EN00000003','4.540340, -75.587294','6 HORAS','DESPACHADO');
 
 INSERT INTO Entrega VALUES('EN00000004','F000000017','000000004D');
-INSERT INTO MomentoEntrega VALUES('EN00000003','5.201075, -75.960973','2 DIAS','PREPARANDO');
-INSERT INTO MomentoEntrega VALUES('EN00000003','4.550340, -76.587294','12 HORAS','DESPACHADO');
-INSERT INTO MomentoEntrega VALUES('EN00000003','5.201078, -74.850973','3 HORAS','DISTRIBICION');
-INSERT INTO MomentoEntrega VALUES('EN00000003','4.540440, -75.987294','0 MINUTOS','ENTREGADO');
+INSERT INTO MomentoEntrega VALUES('EN00000004','5.201075, -75.960973','2 DIAS','PREPARANDO');
+INSERT INTO MomentoEntrega VALUES('EN00000004','4.550340, -76.587294','12 HORAS','DESPACHADO');
+INSERT INTO MomentoEntrega VALUES('EN00000004','5.201078, -74.850973','3 HORAS','DISTRIBICION');
+INSERT INTO MomentoEntrega VALUES('EN00000004','4.540440, -75.987294','0 MINUTOS','ENTREGADO');
 
 INSERT INTO Entrega VALUES('EN00000005','F000000020','000000005D');
 INSERT INTO MomentoEntrega VALUES('EN00000005','4.650340, -76.596294','1 DIAS','DESPACHADO');
@@ -2033,12 +2013,12 @@ INSERT INTO MomentoEntrega VALUES('EN00000010','4.673664, -75.367483','4 HORAS',
 INSERT INTO MomentoEntrega VALUES('EN00000010','5.658704, -75.367482','0 MINUTOS','ENTREGADO');
 
 --RESEÑA
-INSERT INTO Resena VALUES('RE00000001','El producto llego en el tiempo esperado, las maracuyas estaban un pcoo ams pequeñas de lo esperado pero tenian muy buena pulpa','4.0','25/05/2021','F000000045','PV00000246','000000052C');
+INSERT INTO Resena VALUES('RE00000001','El producto llego en el tiempo esperado, las maracuyas estaban un pcoo ams pequeñas de lo esperado pero tenian muy buena pulpa',4.0,'25/05/2021','F000000045','PV00000246','000000052C');
 
-INSERT INTO Resena VALUES('RE00000002','Geniales las cebollas compren aqui','4.5','25/05/2021','F000000044','PV00000218','000000052C');
+INSERT INTO Resena VALUES('RE00000002','Geniales las cebollas compren aqui',4.5,'25/05/2021','F000000044','PV00000218','000000052C');
 
-INSERT INTO Resena VALUES('RE00000003','Que buen yuca, el unico problema es que la entrega se demoro mas de lo esperado','4.0','25/04/2021','F000000017','PV00000238','000000020C');
+INSERT INTO Resena VALUES('RE00000003','Que buen yuca, el unico problema es que la entrega se demoro mas de lo esperado',4.0,'25/04/2021','F000000017','PV00000238','000000020C');
 
-INSERT INTO Resena VALUES('RE00000004','Muy bueno ese queso, tenia un sabor y una frescura geniales','4.8','216/04/2021','F000000010','PV00000099','000000010C');
+INSERT INTO Resena VALUES('RE00000004','Muy bueno ese queso, tenia un sabor y una frescura geniales',4.8,'21/04/2021','F000000010','PV00000099','000000010C');
 
-INSERT INTO Resena VALUES('RE00000005','Estan bien las zanahorias','4.0','216/04/2021','F000000010','PV00000209','000000010C');
+INSERT INTO Resena VALUES('RE00000005','Estan bien las zanahorias',4.0,'21/04/2021','F000000010','PV00000209','000000010C');

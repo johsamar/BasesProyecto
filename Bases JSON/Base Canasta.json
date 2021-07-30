@@ -1,4 +1,21 @@
-[
 
 
-]
+
+
+
+{
+    "NombreDistribuidor":"Carlos",
+    "ApellidoDistribuidor": "Salazar",
+    "CedulaDistribuidor": "1023674589",
+    "TelefonoDistribuidor": "3256640102",
+    "CorreoDistribuidor": "carlos.salazar@hotmail.com"
+}
+{
+    "NombreDistribuidor":"Mario",
+    "ApellidoDistribuidor": "Sanchez",
+    "CedulaDistribuidor": "1023674590",
+    "TelefonoDistribuidor": "3256640102",
+    "CorreoDistribuidor": "mario.sanchez@hotmail.com"
+}
+
+

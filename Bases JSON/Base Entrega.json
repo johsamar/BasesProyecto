@@ -1,0 +1,41 @@
+
+
+{
+    "Descripcion":"El producto llego en el tiempo esperado, las maracuyas estaban un pcoo ams pequeñas de lo esperado pero tenian muy buena pulpa",
+    "Calificacion": 4.0,
+    "FechaResena":"25/05/2021",
+    "IdFactura":"F000000045",
+    "IdCliente":"000000052C"
+}
+
+{
+    "Descripcion":"Geniales las cebollas compren aqui",
+    "Calificacion": 4.5,
+    "FechaResena":"25/05/2021",
+    "IdFactura":"F000000044",
+    "IdCliente":"000000052C"
+}
+
+{
+    "Descripcion":"Que buen yuca, el unico problema es que la entrega se demoro mas de lo esperado",
+    "Calificacion": 4.0,
+    "FechaResena":"25/04/2021",
+    "IdFactura":"F000000017",
+    "IdCliente":"000000020C"
+}
+
+{
+    "Descripcion":"Muy bueno ese queso, tenia un sabor y una frescura geniales",
+    "Calificacion": 4.8,
+    "FechaResena":"21/04/2021",
+    "IdFactura":"F000000010",
+    "IdCliente":"000000010C"
+}
+
+{
+    "Descripcion":"Estan bien las zanahorias",
+    "Calificacion": 4.0,
+    "FechaResena":"21/04/2021",
+    "IdFactura":"F000000010",
+    "IdCliente":"000000010C"
+}
