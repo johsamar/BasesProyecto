@@ -3333,7 +3333,7 @@
             "IdProducto": "P00000103P",
         "NombreProducto": "Manolito",
         "Categoria": {
-        "NombreCategoria":"Procesados",
+            "NombreCategoria":"Procesados",
         "DescripcionCategoria": "Productos agricolas con valor agregado, han soportado cambios o han pasado por algun grado de procesamiento industrial antes de llegar a nuestra mesa para que los podamos consumir."
     }
         },
@@ -3352,7 +3352,7 @@
         "Producto":{
             "IdProducto": "P00000001P",
             "NombreProducto": "Plátano Verde",
-            "Categoria": {
+                "Categoria": {
                 "NombreCategoria":"Frutas",
                 "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
         }
@@ -3571,7 +3571,12 @@
         "IdProductor": "000000011P",
         "IdFinca": "000000011F",
         "Producto":{
-            "IdProducto": "P00000015P"
+            "IdProducto": "P00000015P",
+        "NombreProducto": "Durazno",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":3000,
         "Descripcion":"OH DURAZNOS",
@@ -3606,7 +3611,12 @@
         "IdProductor": "000000011P",
         "IdFinca": "000000011F",
         "Producto":{
-            "IdProducto": "P00000016P"
+            "IdProducto": "P00000016P",
+        "NombreProducto": "Durazno",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":3000,
         "Descripcion":"OTRA VARIEDAD DE DURAZNOS PERO DURAZNOS",
@@ -3782,7 +3792,12 @@
         "IdProductor": "000000012P",
         "IdFinca": "000000012F",
         "Producto":{
-            "IdProducto": "P00000020P"
+            "IdProducto": "P00000020P",
+        "NombreProducto": "Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":1500,
         "Descripcion":"LE TENEMOS LAS GUAYABAS",
@@ -4498,7 +4513,12 @@
         "IdProductor": "000000015P",
         "IdFinca": "000000015F",
         "Producto":{
-            "IdProducto": "P00000016P"
+            "IdProducto": "P00000016P",
+        "NombreProducto": "Durazno",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":3500,
         "Descripcion":"DURAZNOS",
@@ -4513,7 +4533,12 @@
         "IdProductor": "000000015P",
         "IdFinca": "000000015F",
         "Producto":{
-            "IdProducto": "P00000017P"
+            "IdProducto": "P00000017P",
+        "NombreProducto": "Pitaya",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":4000,
         "Descripcion":"BUENAS LAS PITAYAS",
@@ -4548,7 +4573,12 @@
         "IdProductor": "000000015P",
         "IdFinca": "000000015F",
         "Producto":{
-            "IdProducto": "P00000020P"
+            "IdProducto": "P00000020P",
+        "NombreProducto": "Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":1500,
         "Descripcion":"GUAYABA PARA EL JUGO",
@@ -5067,7 +5097,7 @@
             "IdProducto": "P00000105P",
         "NombreProducto": "Orégano Escama",
         "Categoria": {
-        "NombreCategoria":"Especias",
+            "NombreCategoria":"Especias",
         "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
     }
         },
@@ -5087,7 +5117,7 @@
             "IdProducto": "P00000110P",
         "NombreProducto": "Laurel",
         "Categoria": {
-        "NombreCategoria":"Especias",
+            "NombreCategoria":"Especias",
         "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
     }
         },
@@ -5145,7 +5175,12 @@
         "IdProductor": "000000019P",
         "IdFinca": "000000019F",
         "Producto":{
-            "IdProducto": "P00000015P"
+            "IdProducto": "P00000015P",
+        "NombreProducto": "Durazno",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":3500,
         "Descripcion":"RICOS DURAZNOS",
@@ -5223,7 +5258,7 @@
             "IdProducto": "P00000108P",
         "NombreProducto": "Orégano Fresco",
         "Categoria": {
-        "NombreCategoria":"Especias",
+            "NombreCategoria":"Especias",
         "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
     }
         },
@@ -5364,7 +5399,7 @@
             "IdProducto": "P00000113P",
         "NombreProducto": "Perejil",
         "Categoria": {
-        "NombreCategoria":"Especias",
+            "NombreCategoria":"Especias",
         "DescripcionCategoria": "Son una serie de aromas de origen vegetal que se usan para preservar o dar sabor a los alimentos."
     }
         },
@@ -5442,7 +5477,12 @@
         "IdProductor": "000000021P",
         "IdFinca": "000000021F",
         "Producto":{
-            "IdProducto": "P00000020P"
+            "IdProducto": "P00000020P",
+        "NombreProducto": "Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":1500,
         "Descripcion":"HAY GUAYABA",
@@ -5779,7 +5819,12 @@
         "IdProductor": "000000023P",
         "IdFinca": "000000023F",
         "Producto":{
-            "IdProducto": "P00000020P"
+            "IdProducto": "P00000020P",
+        "NombreProducto": "Guayaba",
+        "Categoria": {
+            "NombreCategoria":"Frutas",
+            "DescripcionCategoria": " frutos comestibles obtenidos de plantas cultivadas o silvestres que, por su sabor generalmente dulce-acidulado, su aroma intenso y agradable y sus propiedades nutritivas"
+        }
         },
         "Precio":2000,
         "Descripcion":"JUGUITO DE GUAYABA",
@@ -6377,7 +6422,12 @@
         "IdProductor": "000000026P",
         "IdFinca": "000000026F",
         "Producto":{
-            "IdProducto": "P00000037P"
+            "IdProducto": "P00000037P",
+            "NombreProducto": "Remolacha",
+            "Categoria": {
+            "NombreCategoria":"Vegetales",
+            "DescripcionCategoria": "partes comestibles de las plantas, como hojas, inflorescencias y tallos"
+            }
         },
         "Precio":1500,
         "Descripcion":"MORADA LA REMOLACHA",
