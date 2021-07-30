@@ -1091,7 +1091,12 @@
         "IdVenta": "PV00000054",
         "IdProductor": "000000028P",
         "Producto":{
-            "IdProducto": "P00000064P"
+            "IdProducto": "P00000064P",
+        "NombreProducto": "Puro Cacao Nibs",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
         },
         "Precio":9600,
         "Descripcion":"CHOCOLATINA PURO NIBS",
@@ -1162,7 +1167,12 @@
         "IdVenta": "PV00000058",
         "IdProductor": "000000028P",
         "Producto":{
-            "IdProducto": "P00000064P"
+            "IdProducto": "P00000064P",
+        "NombreProducto": "Puro Cacao Nibs",
+        "Categoria": {
+            "NombreCategoria":"Dulces",
+            "DescripcionCategoria": "Productos derivados de endulzante procesados o no, panela, bocadiño, arequipe"
+        }
         },
         "Precio":9600,
         "Descripcion":"CHOCOLATINA PURO NIBS",
@@ -4974,7 +4984,7 @@
         "IdProductor": "000000018P",
         "IdFinca": "000000018F",
         "Producto":{
-           "IdProducto": "P00000007P",
+            "IdProducto": "P00000007P",
         "NombreProducto": "Peras",
         "Categoria": {
             "NombreCategoria":"Frutas",
