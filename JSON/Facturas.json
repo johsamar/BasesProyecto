@@ -692,18 +692,6 @@
            "ValorPago": 71000}]
      },
      {
-        "IdFactura": "F000000034",
-        "IdCanasta": "CA00000063",
-        "IdCliente": "000000044C",
-        "CostoEnvio": 2000,
-        "TotalAPagar": 139000,
-        "Pago":[
-          {
-           "FechaPago":  "27/07/2021",
-           "MetodoPago": "EFECTIVO",
-           "ValorPago": 139000}]
-     },
-     {
         "IdFactura": "F000000035",
         "IdCanasta": "CA00000064",
         "IdCliente": "000000044C",
@@ -805,17 +793,6 @@
            "ValorPago": 71000}]
      },
      {
-        "IdFactura": "F000000034",
-        "IdCanasta": "CA00000063",
-        "IdCliente": "000000044C",
-        "CostoEnvio": 2000,
-        "TotalAPagar": 139000,
-        "Pago":[
-          {
-           "FechaPago":  "27/07/2021",
-           "MetodoPago": "EFECTIVO",
-           "ValorPago": 139000}]
-     },
      {
         "IdFactura": "F000000035",
         "IdCanasta": "CA00000064",

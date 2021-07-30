@@ -1,0 +1,99 @@
+CONSULTAS SAMUEL
+
+--El producto mas vendido con menos reseñas
+SELECT PRODUCTOT,TOTALPEDIDA,CANT_RES FROM(
+    --Total cantidad de productos vendidos 
+    SELECT * FROM(
+        SELECT IDPRODUCTOENVENTA AS PRODUCTOT,SUM(CANTIDADPEDIDA) TOTALPEDIDA FROM PEDIDO
+            WHERE IDCANASTA IN(SELECT IDCANASTA FROM CANASTA WHERE ESTADOCANASTA='COMPRADA')
+            GROUP BY IDPRODUCTOENVENTA
+            ORDER BY TOTALPEDIDA DESC))
+    JOIN
+        --Producto con menos reseñas
+        (SELECT * 
+        FROM (SELECT IDPRODUCTOENVENTA AS PRODUCTORE,COUNT(IDPRODUCTOENVENTA) AS CANT_RES FROM RESENA
+        GROUP BY IDPRODUCTOENVENTA)
+        WHERE CANT_RES =(SELECT MIN(CANT_RES)FROM (SELECT IDPRODUCTOENVENTA,COUNT(IDPRODUCTOENVENTA) AS CANT_RES FROM RESENA
+        GROUP BY IDPRODUCTOENVENTA)))
+    ON
+        PRODUCTOT=PRODUCTORE
+        --ORDENAR POR EL MAS VENDIDO, CON MENOS RESEÑAS
+        ORDER BY TOTALPEDIDA DESC,CANT_RES;
+
+        
+------ NoSQL
+
+db.Canasta.aggregate([
+    {
+        $match:{
+                EstadoCanasta:{$eq:"COMPRADA"}
+            }
+        },
+    {
+        $unwind:"$Pedido"
+    },{
+        $lookup:
+         {
+           from: "ProductosEnVenta",
+           localField: "Pedido.IdProductoEnVenta",
+           foreignField: "IdVenta",
+           as: "PEV"
+         }
+        },
+        {
+            $unwind:"$PEV"
+            },
+        {
+            $match:{
+                "PEV.Resena":{$elemMatch:{$exists:true}}
+                }
+            },
+        {
+            $project:{
+                _id:0,
+                Pedido:1,
+                resenas:{$size:"$PEV.Resena"}
+                }
+            },
+    {
+        $group:{
+                _id:{idPedido:"$Pedido.IdProductoEnVenta",resena:"$resenas"},
+                total:{$sum:"$Pedido.Cantidad"}
+            }
+        },
+      {
+          $sort:{total:-1,"_id.resena":1}
+          }
+])
+
+
+Cual es el pago mas utilizado por el cliente con mas compras
+
+--CONSULTA SUSTENATACION
+    SELECT pago.metodopago as metodo, count(pago.metodopago) as pagon
+    FROM pago JOIN(
+        SELECT factura.idfactura as facturamas
+        FROM factura
+        WHERE idcliente = ANY(
+            --id cliente mas compras
+            SELECT factura.idcliente
+            FROM cliente JOIN factura
+            ON factura.idcliente = cliente.idcliente
+            GROUP BY factura.idcliente
+            HAVING COUNT(factura.idfactura) = (
+                --Maximo de compras
+                SELECT max(canastas)
+                    FROM(
+                    --Compras x cliente
+                        SELECT cliente.idcliente as idClien, cliente.nombrecliente as nombrecliente , COUNT(factura.idfactura) as canastas
+                        FROM cliente JOIN factura
+                        ON factura.idcliente = cliente.idcliente
+                        GROUP BY cliente.idcliente,cliente.nombrecliente
+                        ORDER BY  COUNT(factura.idfactura) DESC
+                        )
+            )
+        )
+    )
+    ON pago.idfactura = facturamas
+GROUP BY pago.metodopago
+ORDER BY count(pago.metodopago) DESC;
