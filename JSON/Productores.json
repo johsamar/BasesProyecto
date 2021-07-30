@@ -1,4 +1,4 @@
-{
+[{
         "IdProductor": "000000001P",
         "NombreProductor": "Carlos",
         "ApellidoProductor": "Santana",
@@ -18,7 +18,7 @@
                 "Municipio":  "PIJAO",
                 "Direccion":  "KRA 5 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000002P",
         "NombreProductor": "Henri",
@@ -39,7 +39,7 @@
                 "Municipio":  "QUIMBAYA",
                 "Direccion":  "KRA 6 #2-58"
         }    
-}
+},
 {
         "IdProductor": "000000003P",
         "NombreProductor": "Tobias",
@@ -60,7 +60,7 @@
                 "Municipio":  "SALENTO",
                 "Direccion":  "KRA 7 #2-23"
         }    
-}
+},
 {
         "IdProductor": "000000004P",
         "NombreProductor": "Carmen",
@@ -81,7 +81,7 @@
                 "Municipio":  "SALENTO",
                 "Direccion":  "KRA 8 #2-46"
         }    
-}
+},
 {
         "IdProductor": "000000005P",
         "NombreProductor": "Diana",
@@ -102,7 +102,7 @@
                 "Municipio":  "QUIMBAYA",
                 "Direccion":  "KRA 9 #2-95"
         }    
-}
+},
 {
         "IdProductor": "000000006P",
         "NombreProductor": "Fabricio",
@@ -123,7 +123,7 @@
                 "Municipio":  "CALARCA",
                 "Direccion":  "KRA 10 #2-01"
         }    
-}
+},
 {
         "IdProductor": "000000007P",
         "NombreProductor": "Amelia",
@@ -144,7 +144,7 @@
                 "Municipio":  "SALENTO",
                 "Direccion":  "KRA 11 #2-36"
         }    
-}
+},
 {
         "IdProductor": "000000008P",
         "NombreProductor": "Erick",
@@ -165,7 +165,7 @@
                 "Municipio":  "PIJAO",
                 "Direccion":  "KRA 12 #2-54"
         }    
-}
+},
 {
         "IdProductor": "000000009P",
         "NombreProductor": "Tadeo",
@@ -186,7 +186,7 @@
                 "Municipio":  "MONTENEGRO",
                 "Direccion":  "KRA 13 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000010P",
         "NombreProductor": "Pedro",
@@ -207,7 +207,7 @@
                 "Municipio":  "SALENTO",
                 "Direccion":  "KRA 14 #2-41"
         }    
-}
+},
 {
         "IdProductor": "000000011P",
         "NombreProductor": "Miguel",
@@ -228,7 +228,7 @@
                 "Municipio":  "SAN JOSE",
                 "Direccion":  "KRA 2 #5-89"
         }    
-}
+},
 {
         "IdProductor": "000000012P",
         "NombreProductor": "Ricardo",
@@ -249,7 +249,7 @@
                 "Municipio":  "VITERBO",
                 "Direccion":  "KRA 16 #8-89"
         }    
-}
+},
 {
         "IdProductor": "000000013P",
         "NombreProductor": "Cristina",
@@ -268,10 +268,9 @@
         "Direccion": {
                 "Departamento":  "CALDAS",
                 "Municipio":  "RISARALDA",
-                "Municipio":  
                 "Direccion":  "KRA 17 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000014P",
         "NombreProductor": "Gabriela",
@@ -292,7 +291,7 @@
                 "Municipio":  "MARULANDA",
                 "Direccion":  "KRA 18 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000015P",
         "NombreProductor": "Rosalin",
@@ -313,7 +312,7 @@
                 "Municipio":  "PENSILVANIA",
                 "Direccion":  "KRA 19 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000016P",
         "NombreProductor": "Rodrigo",
@@ -334,7 +333,7 @@
                 "Municipio":  "NEIRA",
                 "Direccion":  "KRA 20 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000017P",
         "NombreProductor": "Danilo",
@@ -355,7 +354,7 @@
                 "Municipio":  "VITERBO",
                 "Direccion":  "KRA 21 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000018P",
         "NombreProductor": "Gabriel",
@@ -376,7 +375,7 @@
                 "Municipio":  "BELALCAZAR",
                 "Direccion":  "KRA 22 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000019P",
         "NombreProductor": "David",
@@ -397,7 +396,7 @@
                 "Municipio":  "BELALCAZAR",
                 "Direccion":  "KRA 23 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000020P",
         "NombreProductor": "Jhonatan",
@@ -418,7 +417,7 @@
                 "Municipio":  "SAN JOSE",
                 "Direccion":  "KRA 3 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000021P",
         "NombreProductor": "Miguel",
@@ -439,7 +438,7 @@
                 "Municipio":  "APÍA",
                 "Direccion":  "KRA 15 #5-89"
         }    
-}
+},
 {
         "IdProductor": "000000022P",
         "NombreProductor": "Ricardo",
@@ -460,7 +459,7 @@
                 "Municipio":  "GUÁTICA",
                 "Direccion":  "KRA 16 #8-89"
         }    
-}
+},
 {
         "IdProductor": "000000023P",
         "NombreProductor": "Cristina",
@@ -481,7 +480,7 @@
                 "Municipio":  "LA CELIA",
                 "Direccion":  "KRA 17 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000024P",
         "NombreProductor": "Gabriela",
@@ -502,7 +501,7 @@
                 "Municipio":  "SANTUARIO",
                 "Direccion":  "KRA 18 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000025P",
         "NombreProductor": "Rosalin",
@@ -523,7 +522,7 @@
                 "Municipio":  "QUINCHÍA",
                 "Direccion":  "KRA 19 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000026P",
         "NombreProductor": "Rodrigo",
@@ -544,7 +543,7 @@
                 "Municipio":  "LA VIRGINIA",
                 "Direccion":  "KRA 20 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000027P",
         "NombreProductor": "Danilo",
@@ -565,7 +564,7 @@
                 "Municipio":  "SANTUARIO",
                 "Direccion":  "KRA 21 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000028P",
         "NombreProductor": "Gabriel",
@@ -586,7 +585,7 @@
                 "Municipio":  "LA CELIA",
                 "Direccion":  "KRA 22 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000029P",
         "NombreProductor": "David",
@@ -607,7 +606,7 @@
                 "Municipio":  "GUÁTICA",
                 "Direccion":  "KRA 23 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000030P",
         "NombreProductor": "Jhonatan",
@@ -628,7 +627,7 @@
                 "Municipio":  "APÍA",
                 "Direccion":  "KRA 24 #2-89"
         }    
-}
+},
 {
         "IdProductor": "000000031P",
         "NombreProductor": "Justin",
@@ -649,7 +648,7 @@
                 "Municipio":  "SALENTO",
                 "Direccion":  "El Jardin"
         }    
-}
+},
 {
         "IdProductor": "000000032P",
         "NombreProductor": "Molly",
@@ -670,7 +669,7 @@
                 "Municipio":  "PIJAO",
                 "Direccion":  "El Paraiso"
         }    
-}
+},
 {
         "IdProductor": "000000033P",
         "NombreProductor": "Hilda",
@@ -691,7 +690,7 @@
                 "Municipio":  "MONTENEGRO",
                 "Direccion":  "La Luna"
         }    
-}
+},
 {
         "IdProductor": "000000034P",
         "NombreProductor": "Dolores",
@@ -712,7 +711,7 @@
                 "Municipio":  "SALENTO",
                 "Direccion":  "El Eden"
     }    
-}
+},
 {
         "IdProductor": "000000035P",
         "NombreProductor": "Esteban",
@@ -733,7 +732,7 @@
                 "Municipio":  "BELALCAZAR",
                 "Direccion":  "Agualinda"
         }    
-}
+},
 {
         "IdProductor": "000000036P",
         "NombreProductor": "Gerardo",
@@ -754,7 +753,7 @@
                 "Municipio":  "BELALCAZAR",
                 "Direccion":  "El Paisaje"
         }    
-}
+},
 {
         "IdProductor": "000000037P",
         "NombreProductor": "Joseph",
@@ -775,7 +774,7 @@
                 "Municipio":  "SAN JOSE",
                 "Direccion":  "Aguamarina"
         }    
-}
+},
 {
         "IdProductor": "000000038P",
         "NombreProductor": "Rigoberto",
@@ -796,7 +795,7 @@
                 "Municipio":  "LA VIRGINIA",
                 "Direccion":  "Greenday"
     }    
-}
+},
 {
         "IdProductor": "000000039P",
         "NombreProductor": "Adolfo",
@@ -818,5 +817,5 @@
                 "Direccion":  "El Iris"
         }    
 }
-
+]
 

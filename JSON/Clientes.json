@@ -1,4 +1,4 @@
-{
+[{
     "IdCliente": "000000001C",
     "IdentificacionCliente": "425695796",
     "NombreCliente": "Mariana Calle",
@@ -10,7 +10,7 @@
         "Municipio":  "SALAMINA",
         "Direccion":  "KRA 15 #32-45"
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000002C",
@@ -24,7 +24,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 54 #78-96"
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000003C",
@@ -38,8 +38,8 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 54 #78-96"
     }   
-}  
-}
+} , 
+
 {
     "IdCliente": "000000004C",
     "IdentificacionCliente": "95368415664-1",
@@ -52,7 +52,7 @@
         "Municipio":  "SALAMINA",
         "Direccion":  "KRA 4 #7-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000005C",
@@ -66,7 +66,7 @@
         "Municipio":  "PENSILVANIA",
         "Direccion":  "KRA 8 #25-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000006C",
@@ -80,7 +80,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 28 #15-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000007C",
@@ -94,7 +94,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 54 #78-96"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000008C",
@@ -108,7 +108,7 @@
         "Municipio":  "VITERBO",
         "Direccion":  "KRA 4 #3-15"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000009C",
@@ -122,7 +122,7 @@
         "Municipio":  "BELALCÁZAR",
         "Direccion":  "KRA 3 #3-32"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000010C",
@@ -136,7 +136,7 @@
         "Municipio":  "RISARALDA",
         "Municipio":  "KRA 5 #2-15"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000011C",
@@ -150,7 +150,7 @@
         "Municipio":  "SAMANÁ",
         "Direccion":  "KRA 85 #78-56"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000012C",
@@ -164,7 +164,7 @@
         "Municipio":  "PENSILVANIA",
         "Direccion":  "KRA 47 #89-25"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000013C",
@@ -178,7 +178,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 12 #58-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000014C",
@@ -192,7 +192,7 @@
         "Municipio":  "FILADELFIA",
         "Direccion":  "KRA 11 #25-2"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000015C",
@@ -206,7 +206,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 7 #2-1"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000016C",
@@ -220,7 +220,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 16 #5-9"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000017C",
@@ -234,7 +234,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 54 #78-96"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000018C",
@@ -248,7 +248,7 @@
         "Municipio":  "RIOSUCIO",
         "Direccion":  "KRA 58 #2-3"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000019C",
@@ -262,7 +262,7 @@
         "Municipio":  "LA MERCED",
         "Direccion":  "KRA 2 #8-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000020C",
@@ -276,7 +276,7 @@
         "Municipio":  "MARMATO",
         "Direccion":  "KRA 5 #2-89"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000021C",
@@ -290,7 +290,7 @@
         "Municipio":  "DORADA",
         "Direccion":  "KRA 2 #45-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000022C",
@@ -304,7 +304,7 @@
         "Municipio":  "RIOSUCIO",
         "Direccion":  "KRA 5 #5-15"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000023C",
@@ -318,7 +318,7 @@
         "Municipio":  "LA MERCED",
         "Direccion":  "KRA 8 #13-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000024C",
@@ -332,7 +332,7 @@
         "Municipio":  "FILADELFIA",
         "Direccion":  "KRA 4 #86-23"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000025C",
@@ -346,7 +346,7 @@
         "Municipio":  "ANSERMA",
         "Direccion":  "KRA 5 #14-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000026C",
@@ -360,7 +360,7 @@
         "Municipio":  "MARULANDA",
         "Direccion":  "KRA 24 #78-9"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000027C",
@@ -374,7 +374,7 @@
         "Municipio":  "RIOSUCIO",
         "Direccion":  "KRA 62 #3-2"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000028C",
@@ -388,7 +388,7 @@
         "Municipio":  "NEIRA",
         "Direccion":  "KRA 15 #2-13"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000029C",
@@ -402,7 +402,7 @@
         "Municipio":  "PALESTINA",
         "Direccion":  "KRA 5 #2-11"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000030C",
@@ -416,7 +416,7 @@
         "Municipio":  "CHINCHINÁ",
         "Direccion":  "KRA 47 #5-13"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000031C",
@@ -430,7 +430,7 @@
         "Municipio":  "CHINCHINÁ",
         "Direccion":  "KRA 5 #10-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000032C",
@@ -444,7 +444,7 @@
         "Municipio":  "PENSILVANIA",
         "Direccion":  "KRA 4 #5-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000033C",
@@ -458,7 +458,7 @@
         "Municipio":  "MANIZALES",
         "Direccion":  "KRA 4 #4-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000034C",
@@ -472,7 +472,7 @@
         "Municipio":  "MANIZALES",
         "Direccion":  "KRA 23 #4-20"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000035C",
@@ -486,7 +486,7 @@
         "Municipio":  "PALESTINA",
         "Direccion":  "KRA 7 #21-125"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000036C",
@@ -500,7 +500,7 @@
         "Municipio":  "SALAMINA",
         "Direccion":  "KRA 7 #5-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000037C",
@@ -514,7 +514,7 @@
         "Municipio":  "RIOSUCIO",
         "Direccion":  "KRA 58 #24-3"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000039C",
@@ -528,7 +528,7 @@
         "Municipio":  "PÁCORA",
         "Direccion":  "KRA 24 #18-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000040C",
@@ -542,7 +542,7 @@
         "Municipio":  "MANIZALES",
     "CorreoCliente": "KRA 5 #2-89"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000041C",
@@ -556,7 +556,7 @@
         "Municipio":  "DOSQUEBRADAS",
         "Direccion":  "KRA 2 #45-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000042C",
@@ -570,7 +570,7 @@
         "Municipio":  "PEREIRA",
         "Direccion":  "KRA 5 #5-15"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000043C",
@@ -584,13 +584,13 @@
         "Municipio":  "GUATICA",
         "Direccion":  "KRA 8 #13-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000044C",
     "IdentificacionCliente": "25801366957-1",
     "NombreCliente": "La tienda de Juan",
-    "TelefonoCliente": "3504788871",,
+    "TelefonoCliente": "3504788871",
     "CorreoCliente": "latiendadejuan@gmail.com",
     "TipoCliente": "ESTABLECIMIENTO",
     "Direccion": {
@@ -598,7 +598,7 @@
         "Municipio":  "APÍA",
         "Direccion":  "KRA 4 #86-23"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000045C",
@@ -612,7 +612,7 @@
         "Municipio":  "LA VIRGINIA",
         "Direccion":  "KRA 5 #14-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000046C",
@@ -626,7 +626,7 @@
         "Municipio":  "PEREIRA",
         "Direccion":  "KRA 24 #78-9"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000047C",
@@ -640,7 +640,7 @@
         "Municipio":  "LA VRGINIA",
         "Direccion":  "KRA 62 #3-2"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000048C",
@@ -654,7 +654,7 @@
         "Municipio":  "DOSQUEBRADAS",
         "Direccion":  "KRA 15 #2-13"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000049C",
@@ -668,7 +668,7 @@
         "Municipio":  "PEREIRA",
         "Direccion":  "KRA 5 #2-11"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000050C",
@@ -682,7 +682,7 @@
         "Municipio":  "PEREIRA",
         "Direccion":  "KRA 47 #5-13"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000051C",
@@ -696,7 +696,7 @@
         "Municipio":  "PEREIRA",
         "Direccion":  "KRA 5 #10-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000052C",
@@ -710,7 +710,7 @@
         "Municipio":  "PEREIRA",
         "Direccion":  "KRA 4 #5-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000053C",
@@ -724,7 +724,7 @@
         "Municipio":  "APÍA",
         "Direccion":  "KRA 4 #4-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000054C",
@@ -738,7 +738,7 @@
         "Municipio":  "APÍA",
         "Direccion":  "KRA 23 #4-20"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000055C",
@@ -752,7 +752,7 @@
         "Municipio":  "DOSQUEBRADAS",
         "Direccion":  "KRA 7 #21-125"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000056C",
@@ -766,7 +766,7 @@
         "Municipio":  "LA VRGINIA",
         "Direccion":  "KRA 7 #5-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000057C",
@@ -780,7 +780,7 @@
         "Municipio":  "LA VRGINIA",
         "Direccion":  "KRA 4 #10-6"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000058C",
@@ -794,7 +794,7 @@
         "Municipio":  "DOSQUEBRADAS",
         "Direccion":  "KRA 58 #24-3"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000059C",
@@ -808,7 +808,7 @@
         "Municipio":  "LA VRGINIA",
         "Direccion":  "KRA 24 #18-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000060C",
@@ -822,7 +822,7 @@
         "Municipio":  "DOSQUEBRADAS",
         "Direccion":  "KRA 5 #2-89"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000061C",
@@ -836,7 +836,7 @@
         "Municipio":  "QUIMABAYA",
         "Direccion":  "KRA 2 #45-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000062C",
@@ -850,7 +850,7 @@
         "Municipio":  "MONTENEGRO",
         "Direccion":  "KRA 5 #5-15"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000063C",
@@ -864,7 +864,7 @@
         "Municipio":  "MONTENEGRO",
         "Direccion":  "KRA 8 #13-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000064C",
@@ -878,7 +878,7 @@
         "Municipio":  "ARMENIA",
         "Direccion":  "KRA 4 #86-23"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000065C",
@@ -892,7 +892,7 @@
         "Municipio":  "ARMENIA",
         "Direccion":  "KRA 5 #14-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000066C",
@@ -906,7 +906,7 @@
         "Municipio":  "QUIMBAYA",
         "Direccion":  "KRA 24 #78-9"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000067C",
@@ -920,7 +920,7 @@
         "Municipio":  "CIRCASIA",
         "Direccion":  "KRA 62 #3-2"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000068C",
@@ -934,7 +934,7 @@
         "Municipio":  "CIRCASIA",
         "Direccion":  "KRA 15 #2-13"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000069C",
@@ -948,7 +948,7 @@
         "Municipio":  "ARMENIA",
         "Direccion":  "KRA 5 #2-11"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000070C",
@@ -962,7 +962,7 @@
         "Municipio":  "ARMENIA",
         "Direccion":  "KRA 47 #5-13"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000071C",
@@ -976,7 +976,7 @@
         "Municipio":  "QUIMBAYA",
         "Direccion":  "KRA 5 #10-5"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000072C",
@@ -990,7 +990,7 @@
         "Municipio":  "QUIMBAYA",
         "Direccion":  "KRA 4 #5-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000073C",
@@ -1004,7 +1004,7 @@
         "Municipio":  "MONTENEGO",
         "Direccion":  "KRA 4 #4-10"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000074C",
@@ -1018,7 +1018,7 @@
         "Municipio":  "APÍA",
         "Direccion":  "MONTENEGRO 23 #4-20"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000075C",
@@ -1032,7 +1032,7 @@
         "Municipio":  "CIRCASIA",
         "Direccion":  "KRA 7 #21-125"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000076C",
@@ -1046,7 +1046,7 @@
         "Municipio":  "CIRCASIA",
         "Direccion":  "KRA 7 #5-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000077C",
@@ -1060,7 +1060,7 @@
         "Municipio":  "MONTENEGRO",
         "Direccion":  "KRA 4 #10-6"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000078C",
@@ -1074,7 +1074,7 @@
         "Municipio":  "ARMENIA",
         "Direccion":  "KRA 58 #24-3"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000079C",
@@ -1088,7 +1088,7 @@
         "Municipio":  "ARMENIA",
         "Direccion":  "KRA 24 #18-8"   
     }   
-}  
+} , 
 
 {
     "IdCliente": "000000080C",
@@ -1102,4 +1102,5 @@
         "Direccion":  "DOSQUEBRADAS",
         "Direccion":  "KRA 5 #2-89"   
     }   
-}  
+}
+]
