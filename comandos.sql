@@ -193,7 +193,7 @@ CREATE TABLE MomentoEntrega(
 
 CREATE TABLE Resena(
     IdResena VARCHAR2(10) NOT NULL,
-    Descripcion VARCHAR2(10) NOT NULL,
+    Descripcion VARCHAR2(300) NOT NULL,
     Calificacion NUMBER(10) NOT NULL,
     FechaResena VARCHAR2(10) NOT NULL,
     IdFactura VARCHAR2(10) NOT NULL,
