@@ -112,7 +112,6 @@
             "IdCanasta": "<string>",
             "IdCliente": "<string>",
             "CostoEnvio": "<integer>",
-            "IVA": "<double>",
             "TotalAPagar": "<double>",
             "Pago":[
                 {
